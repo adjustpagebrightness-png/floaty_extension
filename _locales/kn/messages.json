@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: ವೇಗ ಮತ್ತು ಲೂಪ್ – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: ತೇಲುವ ವಿಂಡೋದಲ್ಲಿ ವೀಡಿಯೊ, ವೇಗ ನಿಯಂತ್ರಣ, A-B ಲೂಪ್, 10 ಸೆಕೆಂಡ್ ಸ್ಕಿಪ್ ಮತ್ತು ವಾಲ್ಯೂಮ್."
+  },
+  "actionTitle": {
+    "message": "Floaty – ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು ಮತ್ತು ಸಹಾಯ"
+  },
+  "placeholder": {
+    "message": "Floaty ವಿಂಡೋದಲ್ಲಿ ಪ್ಲೇ ಆಗುತ್ತಿದೆ"
+  },
+  "btnPlayer": {
+    "message": "Floaty ಮೂಲಕ ಪಾಪ್ ಔಟ್ ಮಾಡಿ (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "ಮೊದಲು ಒಂದು YouTube ವೀಡಿಯೊ ತೆರೆಯಿರಿ."
+  },
+  "toastNeedClick": {
+    "message": "ಪ್ಲೇಯರ್‌ನಲ್ಲಿರುವ Floaty ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ ಅಥವಾ Alt+P ಒತ್ತಿರಿ."
+  },
+  "seek": {
+    "message": "ಪ್ರಗತಿ"
+  },
+  "play": {
+    "message": "ಪ್ಲೇ"
+  },
+  "pause": {
+    "message": "ವಿರಾಮ"
+  },
+  "back10": {
+    "message": "10 ಸೆಕೆಂಡ್ ಹಿಂದೆ"
+  },
+  "fwd10": {
+    "message": "10 ಸೆಕೆಂಡ್ ಮುಂದೆ"
+  },
+  "prev": {
+    "message": "ಹಿಂದಿನದು"
+  },
+  "next": {
+    "message": "ಮುಂದಿನದು"
+  },
+  "speed": {
+    "message": "ಪ್ಲೇಬ್ಯಾಕ್ ವೇಗ"
+  },
+  "abLoop": {
+    "message": "A-B ಲೂಪ್"
+  },
+  "loop": {
+    "message": "ಲೂಪ್"
+  },
+  "loopOn": {
+    "message": "ಲೂಪ್ ಆನ್"
+  },
+  "loopOff": {
+    "message": "ಲೂಪ್ ಆಫ್"
+  },
+  "flashA": {
+    "message": "A ಹೊಂದಿಸಲಾಗಿದೆ, B ಯಲ್ಲಿ ಮತ್ತೆ ಒತ್ತಿರಿ"
+  },
+  "flashABShort": {
+    "message": "ಮೊದಲು A ಬಿಂದುವನ್ನು ದಾಟಿ"
+  },
+  "flashABOn": {
+    "message": "A-B ಲೂಪ್ ಆನ್"
+  },
+  "flashABOff": {
+    "message": "A-B ಲೂಪ್ ಆಫ್"
+  },
+  "mute": {
+    "message": "ಮ್ಯೂಟ್"
+  },
+  "unmute": {
+    "message": "ಅನ್‌ಮ್ಯೂಟ್"
+  },
+  "volume": {
+    "message": "ವಾಲ್ಯೂಮ್"
+  },
+  "backToTab": {
+    "message": "ಟ್ಯಾಬ್‌ಗೆ ಹಿಂತಿರುಗಿ"
+  },
+  "playPause": {
+    "message": "ಪ್ಲೇ / ವಿರಾಮ"
+  },
+  "skip10": {
+    "message": "10 ಸೆಕೆಂಡ್ ಹಿಂದೆ / ಮುಂದೆ"
+  },
+  "popupTagline": {
+    "message": "ತೇಲುವ ವಿಂಡೋದಲ್ಲಿ YouTube ನೋಡಿ"
+  },
+  "popupHow": {
+    "message": "ಒಂದು YouTube ವೀಡಿಯೊ ತೆರೆಯಿರಿ, ನಂತರ ಪ್ಲೇಯರ್‌ನಲ್ಲಿರುವ Floaty ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ ಅಥವಾ Alt+P ಒತ್ತಿರಿ."
+  },
+  "popupShortcuts": {
+    "message": "ತೇಲುವ ವಿಂಡೋದ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು"
+  },
+  "rateTitle": {
+    "message": "Floaty ಇಷ್ಟವಾಯಿತೇ?"
+  },
+  "rateText": {
+    "message": "Chrome ವೆಬ್ ಸ್ಟೋರ್‌ನಲ್ಲಿ ರೇಟಿಂಗ್ ನೀಡಿ. ಕೇವಲ 5 ಸೆಕೆಂಡ್ ಸಾಕು, ತುಂಬಾ ಸಹಾಯವಾಗುತ್ತದೆ."
+  },
+  "welcomeTitle": {
+    "message": "Floaty ಇನ್‌ಸ್ಟಾಲ್ ಆಗಿದೆ"
+  },
+  "welcomeLead": {
+    "message": "ಕೆಲಸ ಮಾಡುತ್ತಾ ತೇಲುವ ವಿಂಡೋದಲ್ಲಿ YouTube ನೋಡಿ, ವೇಗ ಮತ್ತು ಲೂಪ್ ನಿಯಂತ್ರಣಗಳೊಂದಿಗೆ."
+  },
+  "step1Title": {
+    "message": "ಯಾವುದೇ YouTube ವೀಡಿಯೊ ತೆರೆಯಿರಿ"
+  },
+  "step1Text": {
+    "message": "ಪ್ಲೇಯರ್ ಕಂಟ್ರೋಲ್ ಬಾರ್‌ನಲ್ಲಿರುವ ಹೊಸ Floaty ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ ಅಥವಾ Alt+P ಒತ್ತಿರಿ."
+  },
+  "step2Title": {
+    "message": "Floaty ಅನ್ನು ಟೂಲ್‌ಬಾರ್‌ಗೆ ಪಿನ್ ಮಾಡಿ"
+  },
+  "step2Text": {
+    "message": "Chrome ನ ಮೇಲಿನ ಬಲಭಾಗದ ಪಜಲ್ ಐಕಾನ್ ಕ್ಲಿಕ್ ಮಾಡಿ, ನಂತರ Floaty ಪಕ್ಕದ ಪಿನ್ ಕ್ಲಿಕ್ ಮಾಡಿ."
+  },
+  "step3Title": {
+    "message": "ವಿಂಡೋದಿಂದಲೇ ಎಲ್ಲವನ್ನೂ ನಿಯಂತ್ರಿಸಿ"
+  },
+  "step3Text": {
+    "message": "ಟ್ಯಾಬ್‌ಗೆ ಹಿಂತಿರುಗದೆ ವೇಗ ಬದಲಿಸಿ, A-B ಲೂಪ್ ಹೊಂದಿಸಿ ಅಥವಾ 10 ಸೆಕೆಂಡ್ ಸ್ಕಿಪ್ ಮಾಡಿ."
+  },
+  "welcomeCta": {
+    "message": "YouTube ನಲ್ಲಿ ಪ್ರಯತ್ನಿಸಿ"
+  },
+  "language": {
+    "message": "ಭಾಷೆ"
+  },
+  "langAuto": {
+    "message": "ಬ್ರೌಸರ್ ಭಾಷೆ"
+  }
+}

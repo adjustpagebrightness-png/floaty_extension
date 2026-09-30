@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Ταχύτητα & Επανάληψη – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: βίντεο σε αιωρούμενο παράθυρο με ταχύτητα, επανάληψη A-B, άλμα 10 δευτ. και ένταση."
+  },
+  "actionTitle": {
+    "message": "Floaty – συντομεύσεις και βοήθεια"
+  },
+  "placeholder": {
+    "message": "Αναπαράγεται στο παράθυρο Floaty"
+  },
+  "btnPlayer": {
+    "message": "Αποσύνδεση με Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Ανοίξτε πρώτα ένα βίντεο στο YouTube."
+  },
+  "toastNeedClick": {
+    "message": "Κάντε κλικ στο κουμπί Floaty στο πρόγραμμα αναπαραγωγής ή πατήστε Alt+P."
+  },
+  "seek": {
+    "message": "Πρόοδος"
+  },
+  "play": {
+    "message": "Αναπαραγωγή"
+  },
+  "pause": {
+    "message": "Παύση"
+  },
+  "back10": {
+    "message": "10 δευτερόλεπτα πίσω"
+  },
+  "fwd10": {
+    "message": "10 δευτερόλεπτα μπροστά"
+  },
+  "prev": {
+    "message": "Προηγούμενο"
+  },
+  "next": {
+    "message": "Επόμενο"
+  },
+  "speed": {
+    "message": "Ταχύτητα αναπαραγωγής"
+  },
+  "abLoop": {
+    "message": "Επανάληψη A-B"
+  },
+  "loop": {
+    "message": "Επανάληψη"
+  },
+  "loopOn": {
+    "message": "Επανάληψη ενεργή"
+  },
+  "loopOff": {
+    "message": "Επανάληψη ανενεργή"
+  },
+  "flashA": {
+    "message": "Ορίστηκε το A, πατήστε ξανά στο B"
+  },
+  "flashABShort": {
+    "message": "Περάστε πρώτα το σημείο A"
+  },
+  "flashABOn": {
+    "message": "Επανάληψη A-B ενεργή"
+  },
+  "flashABOff": {
+    "message": "Επανάληψη A-B ανενεργή"
+  },
+  "mute": {
+    "message": "Σίγαση"
+  },
+  "unmute": {
+    "message": "Κατάργηση σίγασης"
+  },
+  "volume": {
+    "message": "Ένταση"
+  },
+  "backToTab": {
+    "message": "Πίσω στην καρτέλα"
+  },
+  "playPause": {
+    "message": "Αναπαραγωγή / παύση"
+  },
+  "skip10": {
+    "message": "10 δευτ. πίσω / μπροστά"
+  },
+  "popupTagline": {
+    "message": "Δείτε YouTube σε αιωρούμενο παράθυρο"
+  },
+  "popupHow": {
+    "message": "Ανοίξτε ένα βίντεο στο YouTube και κάντε κλικ στο κουμπί Floaty στο πρόγραμμα αναπαραγωγής ή πατήστε Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Συντομεύσεις στο αιωρούμενο παράθυρο"
+  },
+  "rateTitle": {
+    "message": "Σας αρέσει το Floaty;"
+  },
+  "rateText": {
+    "message": "Βαθμολογήστε το στο Chrome Web Store. Παίρνει 5 δευτερόλεπτα και βοηθά πολύ."
+  },
+  "welcomeTitle": {
+    "message": "Το Floaty εγκαταστάθηκε"
+  },
+  "welcomeLead": {
+    "message": "Δείτε YouTube σε αιωρούμενο παράθυρο ενώ δουλεύετε, με ενσωματωμένη ταχύτητα και επανάληψη."
+  },
+  "step1Title": {
+    "message": "Ανοίξτε οποιοδήποτε βίντεο στο YouTube"
+  },
+  "step1Text": {
+    "message": "Κάντε κλικ στο νέο κουμπί Floaty στη γραμμή ελέγχου του προγράμματος αναπαραγωγής ή πατήστε Alt+P."
+  },
+  "step2Title": {
+    "message": "Καρφιτσώστε το Floaty στη γραμμή εργαλείων"
+  },
+  "step2Text": {
+    "message": "Κάντε κλικ στο κομμάτι παζλ πάνω δεξιά στο Chrome και μετά στην πινέζα δίπλα στο Floaty."
+  },
+  "step3Title": {
+    "message": "Ελέγξτε τα πάντα από το παράθυρο"
+  },
+  "step3Text": {
+    "message": "Αλλάξτε ταχύτητα, ορίστε επανάληψη A-B ή μεταβείτε 10 δευτερόλεπτα χωρίς να επιστρέψετε στην καρτέλα."
+  },
+  "welcomeCta": {
+    "message": "Δοκιμάστε το στο YouTube"
+  },
+  "language": {
+    "message": "Γλώσσα"
+  },
+  "langAuto": {
+    "message": "Γλώσσα προγράμματος περιήγησης"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Greitis ir Kartojimas – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: vaizdo įrašai plaukiojančiame lange su greičiu, A-B kartojimu, 10 s peršokimu ir garsu."
+  },
+  "actionTitle": {
+    "message": "Floaty – spartieji klavišai ir pagalba"
+  },
+  "placeholder": {
+    "message": "Leidžiama Floaty lange"
+  },
+  "btnPlayer": {
+    "message": "Iškelti su Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Pirmiausia atidarykite YouTube vaizdo įrašą."
+  },
+  "toastNeedClick": {
+    "message": "Spustelėkite Floaty mygtuką grotuve arba paspauskite Alt+P."
+  },
+  "seek": {
+    "message": "Eiga"
+  },
+  "play": {
+    "message": "Leisti"
+  },
+  "pause": {
+    "message": "Pristabdyti"
+  },
+  "back10": {
+    "message": "10 sekundžių atgal"
+  },
+  "fwd10": {
+    "message": "10 sekundžių pirmyn"
+  },
+  "prev": {
+    "message": "Ankstesnis"
+  },
+  "next": {
+    "message": "Kitas"
+  },
+  "speed": {
+    "message": "Atkūrimo greitis"
+  },
+  "abLoop": {
+    "message": "A-B kartojimas"
+  },
+  "loop": {
+    "message": "Kartoti"
+  },
+  "loopOn": {
+    "message": "Kartojimas įjungtas"
+  },
+  "loopOff": {
+    "message": "Kartojimas išjungtas"
+  },
+  "flashA": {
+    "message": "A nustatytas, paspauskite dar kartą ties B"
+  },
+  "flashABShort": {
+    "message": "Pirmiausia praleiskite tašką A"
+  },
+  "flashABOn": {
+    "message": "A-B kartojimas įjungtas"
+  },
+  "flashABOff": {
+    "message": "A-B kartojimas išjungtas"
+  },
+  "mute": {
+    "message": "Nutildyti"
+  },
+  "unmute": {
+    "message": "Įjungti garsą"
+  },
+  "volume": {
+    "message": "Garsumas"
+  },
+  "backToTab": {
+    "message": "Grįžti į skirtuką"
+  },
+  "playPause": {
+    "message": "Leisti / pristabdyti"
+  },
+  "skip10": {
+    "message": "10 s atgal / pirmyn"
+  },
+  "popupTagline": {
+    "message": "Žiūrėkite YouTube plaukiojančiame lange"
+  },
+  "popupHow": {
+    "message": "Atidarykite YouTube vaizdo įrašą ir spustelėkite Floaty mygtuką grotuve arba paspauskite Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Spartieji klavišai plaukiojančiame lange"
+  },
+  "rateTitle": {
+    "message": "Patinka Floaty?"
+  },
+  "rateText": {
+    "message": "Įvertinkite jį „Chrome“ internetinėje parduotuvėje. Tai užtruks 5 sekundes ir labai padės."
+  },
+  "welcomeTitle": {
+    "message": "Floaty įdiegtas"
+  },
+  "welcomeLead": {
+    "message": "Žiūrėkite YouTube plaukiojančiame lange dirbdami, su įtaisytu greičio ir kartojimo valdymu."
+  },
+  "step1Title": {
+    "message": "Atidarykite bet kurį YouTube vaizdo įrašą"
+  },
+  "step1Text": {
+    "message": "Spustelėkite naują Floaty mygtuką grotuvo valdymo juostoje arba paspauskite Alt+P."
+  },
+  "step2Title": {
+    "message": "Prisekite Floaty prie įrankių juostos"
+  },
+  "step2Text": {
+    "message": "Spustelėkite dėlionės detalę „Chrome“ viršuje dešinėje, tada smeigtuką šalia Floaty."
+  },
+  "step3Title": {
+    "message": "Valdykite viską iš lango"
+  },
+  "step3Text": {
+    "message": "Keiskite greitį, nustatykite A-B kartojimą arba peršokite 10 sekundžių negrįždami į skirtuką."
+  },
+  "welcomeCta": {
+    "message": "Išbandykite YouTube"
+  },
+  "language": {
+    "message": "Kalba"
+  },
+  "langAuto": {
+    "message": "Naršyklės kalba"
+  }
+}

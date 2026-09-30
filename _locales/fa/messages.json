@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: سرعت و تکرار – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: ویدیو در پنجره شناور با کنترل سرعت، تکرار A-B، پرش ۱۰ ثانیه‌ای و صدا."
+  },
+  "actionTitle": {
+    "message": "Floaty – میان‌برها و راهنما"
+  },
+  "placeholder": {
+    "message": "در حال پخش در پنجره Floaty"
+  },
+  "btnPlayer": {
+    "message": "باز کردن در Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "ابتدا یک ویدیوی YouTube باز کنید."
+  },
+  "toastNeedClick": {
+    "message": "روی دکمه Floaty در پخش‌کننده کلیک کنید یا Alt+P را بزنید."
+  },
+  "seek": {
+    "message": "پیشرفت"
+  },
+  "play": {
+    "message": "پخش"
+  },
+  "pause": {
+    "message": "توقف"
+  },
+  "back10": {
+    "message": "۱۰ ثانیه عقب"
+  },
+  "fwd10": {
+    "message": "۱۰ ثانیه جلو"
+  },
+  "prev": {
+    "message": "قبلی"
+  },
+  "next": {
+    "message": "بعدی"
+  },
+  "speed": {
+    "message": "سرعت پخش"
+  },
+  "abLoop": {
+    "message": "تکرار A-B"
+  },
+  "loop": {
+    "message": "تکرار"
+  },
+  "loopOn": {
+    "message": "تکرار روشن"
+  },
+  "loopOff": {
+    "message": "تکرار خاموش"
+  },
+  "flashA": {
+    "message": "نقطه A تنظیم شد، در B دوباره بزنید"
+  },
+  "flashABShort": {
+    "message": "ابتدا از نقطه A عبور کنید"
+  },
+  "flashABOn": {
+    "message": "تکرار A-B روشن"
+  },
+  "flashABOff": {
+    "message": "تکرار A-B خاموش"
+  },
+  "mute": {
+    "message": "بی‌صدا"
+  },
+  "unmute": {
+    "message": "صدادار"
+  },
+  "volume": {
+    "message": "میزان صدا"
+  },
+  "backToTab": {
+    "message": "بازگشت به زبانه"
+  },
+  "playPause": {
+    "message": "پخش / توقف"
+  },
+  "skip10": {
+    "message": "۱۰ ثانیه عقب / جلو"
+  },
+  "popupTagline": {
+    "message": "YouTube را در پنجره شناور ببینید"
+  },
+  "popupHow": {
+    "message": "یک ویدیوی YouTube باز کنید، سپس روی دکمه Floaty در پخش‌کننده کلیک کنید یا Alt+P را بزنید."
+  },
+  "popupShortcuts": {
+    "message": "میان‌برها در پنجره شناور"
+  },
+  "rateTitle": {
+    "message": "از Floaty راضی هستید؟"
+  },
+  "rateText": {
+    "message": "در فروشگاه وب Chrome به آن امتیاز دهید. فقط ۵ ثانیه طول می‌کشد و خیلی کمک می‌کند."
+  },
+  "welcomeTitle": {
+    "message": "Floaty نصب شد"
+  },
+  "welcomeLead": {
+    "message": "هنگام کار، YouTube را در پنجره شناور ببینید؛ با کنترل داخلی سرعت و تکرار."
+  },
+  "step1Title": {
+    "message": "یک ویدیوی YouTube باز کنید"
+  },
+  "step1Text": {
+    "message": "روی دکمه جدید Floaty در نوار کنترل پخش‌کننده کلیک کنید یا Alt+P را بزنید."
+  },
+  "step2Title": {
+    "message": "Floaty را به نوار ابزار سنجاق کنید"
+  },
+  "step2Text": {
+    "message": "روی نماد قطعه پازل در نوار ابزار Chrome و سپس روی سنجاق کنار Floaty کلیک کنید."
+  },
+  "step3Title": {
+    "message": "همه‌چیز را از پنجره کنترل کنید"
+  },
+  "step3Text": {
+    "message": "بدون بازگشت به زبانه، سرعت را تغییر دهید، تکرار A-B تنظیم کنید یا ۱۰ ثانیه جابه‌جا شوید."
+  },
+  "welcomeCta": {
+    "message": "در YouTube امتحان کنید"
+  },
+  "language": {
+    "message": "زبان"
+  },
+  "langAuto": {
+    "message": "زبان مرورگر"
+  }
+}

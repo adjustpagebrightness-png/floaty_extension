@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Hitrost in Ponavljanje – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: videoposnetki v plavajočem oknu s hitrostjo, ponavljanjem A-B, preskokom 10 s in glasnostjo."
+  },
+  "actionTitle": {
+    "message": "Floaty – bližnjice in pomoč"
+  },
+  "placeholder": {
+    "message": "Predvaja se v oknu Floaty"
+  },
+  "btnPlayer": {
+    "message": "Izvleci s Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Najprej odprite videoposnetek v YouTubu."
+  },
+  "toastNeedClick": {
+    "message": "Kliknite gumb Floaty v predvajalniku ali pritisnite Alt+P."
+  },
+  "seek": {
+    "message": "Potek"
+  },
+  "play": {
+    "message": "Predvajaj"
+  },
+  "pause": {
+    "message": "Začasno ustavi"
+  },
+  "back10": {
+    "message": "10 sekund nazaj"
+  },
+  "fwd10": {
+    "message": "10 sekund naprej"
+  },
+  "prev": {
+    "message": "Prejšnji"
+  },
+  "next": {
+    "message": "Naslednji"
+  },
+  "speed": {
+    "message": "Hitrost predvajanja"
+  },
+  "abLoop": {
+    "message": "Ponavljanje A-B"
+  },
+  "loop": {
+    "message": "Ponavljanje"
+  },
+  "loopOn": {
+    "message": "Ponavljanje vklopljeno"
+  },
+  "loopOff": {
+    "message": "Ponavljanje izklopljeno"
+  },
+  "flashA": {
+    "message": "A je nastavljen, pri B pritisnite znova"
+  },
+  "flashABShort": {
+    "message": "Najprej predvajajte mimo točke A"
+  },
+  "flashABOn": {
+    "message": "Ponavljanje A-B vklopljeno"
+  },
+  "flashABOff": {
+    "message": "Ponavljanje A-B izklopljeno"
+  },
+  "mute": {
+    "message": "Izklopi zvok"
+  },
+  "unmute": {
+    "message": "Vklopi zvok"
+  },
+  "volume": {
+    "message": "Glasnost"
+  },
+  "backToTab": {
+    "message": "Nazaj na zavihek"
+  },
+  "playPause": {
+    "message": "Predvajaj / ustavi"
+  },
+  "skip10": {
+    "message": "10 s nazaj / naprej"
+  },
+  "popupTagline": {
+    "message": "Glejte YouTube v plavajočem oknu"
+  },
+  "popupHow": {
+    "message": "Odprite videoposnetek v YouTubu in kliknite gumb Floaty v predvajalniku ali pritisnite Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Bližnjice v plavajočem oknu"
+  },
+  "rateTitle": {
+    "message": "Vam je Floaty všeč?"
+  },
+  "rateText": {
+    "message": "Ocenite ga v Spletni trgovini Chrome. Traja 5 sekund in zelo pomaga."
+  },
+  "welcomeTitle": {
+    "message": "Floaty je nameščen"
+  },
+  "welcomeLead": {
+    "message": "Glejte YouTube v plavajočem oknu med delom, z vgrajeno hitrostjo in ponavljanjem."
+  },
+  "step1Title": {
+    "message": "Odprite katerikoli videoposnetek v YouTubu"
+  },
+  "step1Text": {
+    "message": "Kliknite novi gumb Floaty v vrstici za upravljanje predvajalnika ali pritisnite Alt+P."
+  },
+  "step2Title": {
+    "message": "Pripnite Floaty v orodno vrstico"
+  },
+  "step2Text": {
+    "message": "Kliknite košček sestavljanke zgoraj desno v Chromu, nato pa žebljiček ob Floaty."
+  },
+  "step3Title": {
+    "message": "Upravljajte vse iz okna"
+  },
+  "step3Text": {
+    "message": "Spremenite hitrost, nastavite ponavljanje A-B ali preskočite 10 sekund, ne da bi se vrnili na zavihek."
+  },
+  "welcomeCta": {
+    "message": "Preskusite v YouTubu"
+  },
+  "language": {
+    "message": "Jezik"
+  },
+  "langAuto": {
+    "message": "Jezik brskalnika"
+  }
+}

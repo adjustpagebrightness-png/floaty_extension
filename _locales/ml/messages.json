@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: വേഗതയും ലൂപ്പും – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: ഫ്ലോട്ടിംഗ് വിൻഡോയിൽ വീഡിയോ, വേഗത, A-B ലൂപ്പ്, 10 സെക്കൻഡ് സ്കിപ്പ്, ശബ്ദം."
+  },
+  "actionTitle": {
+    "message": "Floaty – കുറുക്കുവഴികളും സഹായവും"
+  },
+  "placeholder": {
+    "message": "Floaty വിൻഡോയിൽ പ്ലേ ചെയ്യുന്നു"
+  },
+  "btnPlayer": {
+    "message": "Floaty ഉപയോഗിച്ച് പോപ്പ് ഔട്ട് (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "ആദ്യം ഒരു YouTube വീഡിയോ തുറക്കുക."
+  },
+  "toastNeedClick": {
+    "message": "പ്ലേയറിലെ Floaty ബട്ടൺ ക്ലിക്ക് ചെയ്യുക അല്ലെങ്കിൽ Alt+P അമർത്തുക."
+  },
+  "seek": {
+    "message": "പുരോഗതി"
+  },
+  "play": {
+    "message": "പ്ലേ ചെയ്യുക"
+  },
+  "pause": {
+    "message": "താൽക്കാലികമായി നിർത്തുക"
+  },
+  "back10": {
+    "message": "10 സെക്കൻഡ് പിന്നോട്ട്"
+  },
+  "fwd10": {
+    "message": "10 സെക്കൻഡ് മുന്നോട്ട്"
+  },
+  "prev": {
+    "message": "മുമ്പത്തേത്"
+  },
+  "next": {
+    "message": "അടുത്തത്"
+  },
+  "speed": {
+    "message": "പ്ലേബാക്ക് വേഗത"
+  },
+  "abLoop": {
+    "message": "A-B ലൂപ്പ്"
+  },
+  "loop": {
+    "message": "ലൂപ്പ്"
+  },
+  "loopOn": {
+    "message": "ലൂപ്പ് ഓൺ"
+  },
+  "loopOff": {
+    "message": "ലൂപ്പ് ഓഫ്"
+  },
+  "flashA": {
+    "message": "A സജ്ജമാക്കി, B-യിൽ വീണ്ടും അമർത്തുക"
+  },
+  "flashABShort": {
+    "message": "ആദ്യം A പോയിന്റ് കടക്കുക"
+  },
+  "flashABOn": {
+    "message": "A-B ലൂപ്പ് ഓൺ"
+  },
+  "flashABOff": {
+    "message": "A-B ലൂപ്പ് ഓഫ്"
+  },
+  "mute": {
+    "message": "മ്യൂട്ട്"
+  },
+  "unmute": {
+    "message": "അൺമ്യൂട്ട്"
+  },
+  "volume": {
+    "message": "ശബ്ദം"
+  },
+  "backToTab": {
+    "message": "ടാബിലേക്ക് മടങ്ങുക"
+  },
+  "playPause": {
+    "message": "പ്ലേ / നിർത്തുക"
+  },
+  "skip10": {
+    "message": "10 സെക്കൻഡ് പിന്നോട്ട് / മുന്നോട്ട്"
+  },
+  "popupTagline": {
+    "message": "ഫ്ലോട്ടിംഗ് വിൻഡോയിൽ YouTube കാണുക"
+  },
+  "popupHow": {
+    "message": "ഒരു YouTube വീഡിയോ തുറന്ന്, പ്ലേയറിലെ Floaty ബട്ടൺ ക്ലിക്ക് ചെയ്യുക അല്ലെങ്കിൽ Alt+P അമർത്തുക."
+  },
+  "popupShortcuts": {
+    "message": "ഫ്ലോട്ടിംഗ് വിൻഡോയിലെ കുറുക്കുവഴികൾ"
+  },
+  "rateTitle": {
+    "message": "Floaty ഇഷ്ടപ്പെട്ടോ?"
+  },
+  "rateText": {
+    "message": "Chrome വെബ് സ്റ്റോറിൽ റേറ്റ് ചെയ്യുക. 5 സെക്കൻഡ് മതി, വലിയ സഹായമാകും."
+  },
+  "welcomeTitle": {
+    "message": "Floaty ഇൻസ്റ്റാൾ ചെയ്തു"
+  },
+  "welcomeLead": {
+    "message": "ജോലി ചെയ്യുമ്പോൾ ഫ്ലോട്ടിംഗ് വിൻഡോയിൽ YouTube കാണുക, വേഗതയും ലൂപ്പ് നിയന്ത്രണങ്ങളും ഉൾപ്പെടെ."
+  },
+  "step1Title": {
+    "message": "ഏതെങ്കിലും YouTube വീഡിയോ തുറക്കുക"
+  },
+  "step1Text": {
+    "message": "പ്ലേയറിന്റെ കൺട്രോൾ ബാറിലെ പുതിയ Floaty ബട്ടൺ ക്ലിക്ക് ചെയ്യുക അല്ലെങ്കിൽ Alt+P അമർത്തുക."
+  },
+  "step2Title": {
+    "message": "Floaty ടൂൾബാറിൽ പിൻ ചെയ്യുക"
+  },
+  "step2Text": {
+    "message": "Chrome-ന്റെ മുകളിൽ വലതുവശത്തുള്ള പസിൽ ഐക്കണിലും തുടർന്ന് Floaty-യുടെ അടുത്തുള്ള പിന്നിലും ക്ലിക്ക് ചെയ്യുക."
+  },
+  "step3Title": {
+    "message": "വിൻഡോയിൽ നിന്ന് എല്ലാം നിയന്ത്രിക്കുക"
+  },
+  "step3Text": {
+    "message": "ടാബിലേക്ക് മടങ്ങാതെ വേഗത മാറ്റുക, A-B ലൂപ്പ് സജ്ജമാക്കുക അല്ലെങ്കിൽ 10 സെക്കൻഡ് സ്കിപ്പ് ചെയ്യുക."
+  },
+  "welcomeCta": {
+    "message": "YouTube-ൽ പരീക്ഷിക്കുക"
+  },
+  "language": {
+    "message": "ഭാഷ"
+  },
+  "langAuto": {
+    "message": "ബ്രൗസർ ഭാഷ"
+  }
+}

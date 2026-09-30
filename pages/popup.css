@@ -1,0 +1,71 @@
+/*! Floaty – YouTube Pop Out Player | (c) 2026 Floaty. All rights reserved. See LICENSE. */
+:root {
+  --honey: #FFC24B;
+  --ink: #211600;
+  --bg: #ffffff;
+  --text: #211600;
+  --muted: #6b5f4a;
+  --line: #ece6d9;
+  --key: #f4f1ea;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #1d1a15; --text: #f6efe2; --muted: #b3a88f; --line: #34302a; --key: #2a261f; }
+}
+* { box-sizing: border-box; }
+body {
+  width: 300px; margin: 0; padding: 16px;
+  background: var(--bg); color: var(--text);
+  font: 13px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+header { display: flex; align-items: center; gap: 10px; }
+header img { border-radius: 9px; flex: none; }
+h1 { margin: 0; font-size: 18px; line-height: 1.1; letter-spacing: -0.01em; }
+.tag { margin: 2px 0 0; color: var(--muted); font-size: 12px; }
+.how { margin: 14px 0 16px; }
+h2 { margin: 0 0 8px; font-size: 12.5px; font-weight: 650; }
+.keys { margin: 0 0 16px; }
+.keys div {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  padding: 5px 0; border-top: 1px solid var(--line);
+}
+.keys div:last-child { border-bottom: 1px solid var(--line); }
+dt { color: var(--muted); }
+dd { margin: 0; display: flex; gap: 4px; flex: none; }
+kbd {
+  min-width: 22px; height: 22px; padding: 0 6px;
+  display: inline-grid; place-items: center;
+  border-radius: 6px; background: var(--key); border: 1px solid var(--line);
+  border-bottom-width: 2px;
+  font: 600 11.5px/1 system-ui, sans-serif; color: var(--text);
+}
+kbd.space { width: 54px; }
+.rate {
+  background: var(--honey); color: var(--ink);
+  border-radius: 14px; padding: 14px 14px 12px;
+}
+.rate h2 { font-size: 14px; margin-bottom: 2px; }
+.rate p { margin: 0 0 8px; font-size: 12.5px; }
+.stars { display: flex; gap: 2px; }
+.stars button {
+  all: unset; cursor: pointer; width: 34px; height: 34px;
+  display: grid; place-items: center; border-radius: 8px;
+}
+.stars button:focus-visible { outline: 2px solid var(--ink); }
+.stars svg { width: 28px; height: 28px; fill: none; stroke: var(--ink); stroke-width: 1.6; transition: transform .12s; }
+.stars button.lit svg { fill: var(--ink); }
+.stars button:hover svg { transform: scale(1.12); }
+@media (prefers-reduced-motion: reduce) { .stars svg { transition: none; } }
+
+.lang {
+  display: flex; align-items: center; gap: 8px; margin-top: 12px;
+  color: var(--muted); font-size: 12.5px;
+}
+.lang svg { width: 16px; height: 16px; fill: currentColor; flex: none; }
+.lang span { flex: none; }
+.lang select {
+  flex: 1; min-width: 0; margin-inline-start: auto;
+  font: inherit; color: var(--text); background: var(--key);
+  border: 1px solid var(--line); border-radius: 8px; padding: 5px 6px;
+}
+.lang select:focus-visible { outline: 2px solid var(--honey); outline-offset: 1px; }

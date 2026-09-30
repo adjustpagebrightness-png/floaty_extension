@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Speed & Loop – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player with speed control, A-B loop, 10s skip and volume. Watch videos in a floating window while you work."
+  },
+  "actionTitle": {
+    "message": "Floaty – shortcuts and help"
+  },
+  "placeholder": {
+    "message": "Playing in the Floaty window"
+  },
+  "btnPlayer": {
+    "message": "Pop out with Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Open a YouTube video first."
+  },
+  "toastNeedClick": {
+    "message": "Click the Floaty button in the player or press Alt+P."
+  },
+  "seek": {
+    "message": "Seek"
+  },
+  "play": {
+    "message": "Play"
+  },
+  "pause": {
+    "message": "Pause"
+  },
+  "back10": {
+    "message": "Back 10 seconds"
+  },
+  "fwd10": {
+    "message": "Forward 10 seconds"
+  },
+  "prev": {
+    "message": "Previous"
+  },
+  "next": {
+    "message": "Next"
+  },
+  "speed": {
+    "message": "Playback speed"
+  },
+  "abLoop": {
+    "message": "A-B loop"
+  },
+  "loop": {
+    "message": "Loop"
+  },
+  "loopOn": {
+    "message": "Loop on"
+  },
+  "loopOff": {
+    "message": "Loop off"
+  },
+  "flashA": {
+    "message": "A set, press again at B"
+  },
+  "flashABShort": {
+    "message": "Play past point A first"
+  },
+  "flashABOn": {
+    "message": "A-B loop on"
+  },
+  "flashABOff": {
+    "message": "A-B loop off"
+  },
+  "mute": {
+    "message": "Mute"
+  },
+  "unmute": {
+    "message": "Unmute"
+  },
+  "volume": {
+    "message": "Volume"
+  },
+  "backToTab": {
+    "message": "Back to tab"
+  },
+  "playPause": {
+    "message": "Play / pause"
+  },
+  "skip10": {
+    "message": "10 s back / forward"
+  },
+  "popupTagline": {
+    "message": "Watch YouTube in a floating window"
+  },
+  "popupHow": {
+    "message": "Open a YouTube video, then click the Floaty button in the player or press Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Shortcuts in the floating window"
+  },
+  "rateTitle": {
+    "message": "Enjoying Floaty?"
+  },
+  "rateText": {
+    "message": "Rate it on the Chrome Web Store. It takes 5 seconds and helps a lot."
+  },
+  "welcomeTitle": {
+    "message": "Floaty is installed"
+  },
+  "welcomeLead": {
+    "message": "Watch YouTube in a floating window while you work, with speed and loop controls built in."
+  },
+  "step1Title": {
+    "message": "Open any YouTube video"
+  },
+  "step1Text": {
+    "message": "Click the new Floaty button in the player's control bar, or press Alt+P."
+  },
+  "step2Title": {
+    "message": "Pin Floaty to your toolbar"
+  },
+  "step2Text": {
+    "message": "Click the puzzle piece at the top right of Chrome, then the pin next to Floaty."
+  },
+  "step3Title": {
+    "message": "Control everything from the window"
+  },
+  "step3Text": {
+    "message": "Change speed, set an A-B loop or skip 10 seconds without going back to the tab."
+  },
+  "welcomeCta": {
+    "message": "Try it on YouTube"
+  },
+  "language": {
+    "message": "Language"
+  },
+  "langAuto": {
+    "message": "Browser language"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Rychlost a Smyčka – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: videa v plovoucím okně s rychlostí, smyčkou A-B, přeskokem o 10 s a hlasitostí."
+  },
+  "actionTitle": {
+    "message": "Floaty – zkratky a nápověda"
+  },
+  "placeholder": {
+    "message": "Přehrává se v okně Floaty"
+  },
+  "btnPlayer": {
+    "message": "Vysunout pomocí Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Nejprve otevřete video na YouTube."
+  },
+  "toastNeedClick": {
+    "message": "Klikněte na tlačítko Floaty v přehrávači nebo stiskněte Alt+P."
+  },
+  "seek": {
+    "message": "Průběh"
+  },
+  "play": {
+    "message": "Přehrát"
+  },
+  "pause": {
+    "message": "Pozastavit"
+  },
+  "back10": {
+    "message": "O 10 sekund zpět"
+  },
+  "fwd10": {
+    "message": "O 10 sekund vpřed"
+  },
+  "prev": {
+    "message": "Předchozí"
+  },
+  "next": {
+    "message": "Další"
+  },
+  "speed": {
+    "message": "Rychlost přehrávání"
+  },
+  "abLoop": {
+    "message": "Smyčka A-B"
+  },
+  "loop": {
+    "message": "Smyčka"
+  },
+  "loopOn": {
+    "message": "Smyčka zapnuta"
+  },
+  "loopOff": {
+    "message": "Smyčka vypnuta"
+  },
+  "flashA": {
+    "message": "Bod A nastaven, u bodu B stiskněte znovu"
+  },
+  "flashABShort": {
+    "message": "Nejprve přehrajte za bod A"
+  },
+  "flashABOn": {
+    "message": "Smyčka A-B zapnuta"
+  },
+  "flashABOff": {
+    "message": "Smyčka A-B vypnuta"
+  },
+  "mute": {
+    "message": "Ztlumit"
+  },
+  "unmute": {
+    "message": "Zapnout zvuk"
+  },
+  "volume": {
+    "message": "Hlasitost"
+  },
+  "backToTab": {
+    "message": "Zpět na kartu"
+  },
+  "playPause": {
+    "message": "Přehrát / pozastavit"
+  },
+  "skip10": {
+    "message": "10 s zpět / vpřed"
+  },
+  "popupTagline": {
+    "message": "Sledujte YouTube v plovoucím okně"
+  },
+  "popupHow": {
+    "message": "Otevřete video na YouTube a klikněte na tlačítko Floaty v přehrávači nebo stiskněte Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Zkratky v plovoucím okně"
+  },
+  "rateTitle": {
+    "message": "Líbí se vám Floaty?"
+  },
+  "rateText": {
+    "message": "Ohodnoťte ho v Internetovém obchodě Chrome. Zabere to 5 sekund a moc to pomůže."
+  },
+  "welcomeTitle": {
+    "message": "Floaty je nainstalováno"
+  },
+  "welcomeLead": {
+    "message": "Sledujte YouTube v plovoucím okně při práci, s vestavěným ovládáním rychlosti a smyčky."
+  },
+  "step1Title": {
+    "message": "Otevřete libovolné video na YouTube"
+  },
+  "step1Text": {
+    "message": "Klikněte na nové tlačítko Floaty v ovládací liště přehrávače nebo stiskněte Alt+P."
+  },
+  "step2Title": {
+    "message": "Připněte Floaty na panel nástrojů"
+  },
+  "step2Text": {
+    "message": "Klikněte na dílek skládačky vpravo nahoře v Chromu a pak na špendlík vedle Floaty."
+  },
+  "step3Title": {
+    "message": "Ovládejte vše z okna"
+  },
+  "step3Text": {
+    "message": "Změňte rychlost, nastavte smyčku A-B nebo přeskočte 10 sekund bez návratu na kartu."
+  },
+  "welcomeCta": {
+    "message": "Vyzkoušet na YouTube"
+  },
+  "language": {
+    "message": "Jazyk"
+  },
+  "langAuto": {
+    "message": "Jazyk prohlížeče"
+  }
+}

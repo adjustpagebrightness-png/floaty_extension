@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Kecepatan & Putar Ulang – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: tonton video di jendela mengambang dengan kecepatan, putar ulang A-B, lompat 10 detik, dan volume."
+  },
+  "actionTitle": {
+    "message": "Floaty – pintasan dan bantuan"
+  },
+  "placeholder": {
+    "message": "Diputar di jendela Floaty"
+  },
+  "btnPlayer": {
+    "message": "Keluarkan dengan Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Buka video YouTube terlebih dahulu."
+  },
+  "toastNeedClick": {
+    "message": "Klik tombol Floaty di pemutar atau tekan Alt+P."
+  },
+  "seek": {
+    "message": "Progres"
+  },
+  "play": {
+    "message": "Putar"
+  },
+  "pause": {
+    "message": "Jeda"
+  },
+  "back10": {
+    "message": "Mundur 10 detik"
+  },
+  "fwd10": {
+    "message": "Maju 10 detik"
+  },
+  "prev": {
+    "message": "Sebelumnya"
+  },
+  "next": {
+    "message": "Berikutnya"
+  },
+  "speed": {
+    "message": "Kecepatan putar"
+  },
+  "abLoop": {
+    "message": "Putar ulang A-B"
+  },
+  "loop": {
+    "message": "Putar ulang"
+  },
+  "loopOn": {
+    "message": "Putar ulang aktif"
+  },
+  "loopOff": {
+    "message": "Putar ulang nonaktif"
+  },
+  "flashA": {
+    "message": "A ditetapkan, tekan lagi di B"
+  },
+  "flashABShort": {
+    "message": "Lewati titik A terlebih dahulu"
+  },
+  "flashABOn": {
+    "message": "Putar ulang A-B aktif"
+  },
+  "flashABOff": {
+    "message": "Putar ulang A-B nonaktif"
+  },
+  "mute": {
+    "message": "Bisukan"
+  },
+  "unmute": {
+    "message": "Bunyikan"
+  },
+  "volume": {
+    "message": "Volume"
+  },
+  "backToTab": {
+    "message": "Kembali ke tab"
+  },
+  "playPause": {
+    "message": "Putar / jeda"
+  },
+  "skip10": {
+    "message": "10 dtk mundur / maju"
+  },
+  "popupTagline": {
+    "message": "Tonton YouTube di jendela mengambang"
+  },
+  "popupHow": {
+    "message": "Buka video YouTube, lalu klik tombol Floaty di pemutar atau tekan Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Pintasan di jendela mengambang"
+  },
+  "rateTitle": {
+    "message": "Suka dengan Floaty?"
+  },
+  "rateText": {
+    "message": "Beri rating di Chrome Web Store. Hanya 5 detik dan sangat membantu."
+  },
+  "welcomeTitle": {
+    "message": "Floaty sudah terpasang"
+  },
+  "welcomeLead": {
+    "message": "Tonton YouTube di jendela mengambang sambil bekerja, dengan kontrol kecepatan dan putar ulang."
+  },
+  "step1Title": {
+    "message": "Buka video YouTube apa saja"
+  },
+  "step1Text": {
+    "message": "Klik tombol Floaty baru di bilah kontrol pemutar atau tekan Alt+P."
+  },
+  "step2Title": {
+    "message": "Sematkan Floaty ke toolbar"
+  },
+  "step2Text": {
+    "message": "Klik ikon kepingan puzzle di kanan atas Chrome, lalu pin di samping Floaty."
+  },
+  "step3Title": {
+    "message": "Kendalikan semuanya dari jendela"
+  },
+  "step3Text": {
+    "message": "Ubah kecepatan, atur putar ulang A-B, atau lompat 10 detik tanpa kembali ke tab."
+  },
+  "welcomeCta": {
+    "message": "Coba di YouTube"
+  },
+  "language": {
+    "message": "Bahasa"
+  },
+  "langAuto": {
+    "message": "Bahasa browser"
+  }
+}

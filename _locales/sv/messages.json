@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Hastighet & Loop – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: videor i ett flytande fönster med hastighet, A-B-loop, hoppa 10 s och volym."
+  },
+  "actionTitle": {
+    "message": "Floaty – kortkommandon och hjälp"
+  },
+  "placeholder": {
+    "message": "Spelas upp i Floaty-fönstret"
+  },
+  "btnPlayer": {
+    "message": "Poppa ut med Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Öppna en YouTube-video först."
+  },
+  "toastNeedClick": {
+    "message": "Klicka på Floaty-knappen i spelaren eller tryck på Alt+P."
+  },
+  "seek": {
+    "message": "Förlopp"
+  },
+  "play": {
+    "message": "Spela upp"
+  },
+  "pause": {
+    "message": "Pausa"
+  },
+  "back10": {
+    "message": "10 sekunder bakåt"
+  },
+  "fwd10": {
+    "message": "10 sekunder framåt"
+  },
+  "prev": {
+    "message": "Föregående"
+  },
+  "next": {
+    "message": "Nästa"
+  },
+  "speed": {
+    "message": "Uppspelningshastighet"
+  },
+  "abLoop": {
+    "message": "A-B-loop"
+  },
+  "loop": {
+    "message": "Loop"
+  },
+  "loopOn": {
+    "message": "Loop på"
+  },
+  "loopOff": {
+    "message": "Loop av"
+  },
+  "flashA": {
+    "message": "A är satt, tryck igen vid B"
+  },
+  "flashABShort": {
+    "message": "Spela först förbi punkt A"
+  },
+  "flashABOn": {
+    "message": "A-B-loop på"
+  },
+  "flashABOff": {
+    "message": "A-B-loop av"
+  },
+  "mute": {
+    "message": "Ljud av"
+  },
+  "unmute": {
+    "message": "Ljud på"
+  },
+  "volume": {
+    "message": "Volym"
+  },
+  "backToTab": {
+    "message": "Tillbaka till fliken"
+  },
+  "playPause": {
+    "message": "Spela upp / pausa"
+  },
+  "skip10": {
+    "message": "10 s bakåt / framåt"
+  },
+  "popupTagline": {
+    "message": "Se YouTube i ett flytande fönster"
+  },
+  "popupHow": {
+    "message": "Öppna en YouTube-video och klicka på Floaty-knappen i spelaren eller tryck på Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Kortkommandon i det flytande fönstret"
+  },
+  "rateTitle": {
+    "message": "Gillar du Floaty?"
+  },
+  "rateText": {
+    "message": "Betygsätt den i Chrome Web Store. Det tar 5 sekunder och hjälper mycket."
+  },
+  "welcomeTitle": {
+    "message": "Floaty är installerat"
+  },
+  "welcomeLead": {
+    "message": "Se YouTube i ett flytande fönster medan du jobbar, med inbyggd hastighet och loop."
+  },
+  "step1Title": {
+    "message": "Öppna valfri YouTube-video"
+  },
+  "step1Text": {
+    "message": "Klicka på den nya Floaty-knappen i spelarens kontrollfält eller tryck på Alt+P."
+  },
+  "step2Title": {
+    "message": "Fäst Floaty i verktygsfältet"
+  },
+  "step2Text": {
+    "message": "Klicka på pusselbiten uppe till höger i Chrome och sedan på nålen bredvid Floaty."
+  },
+  "step3Title": {
+    "message": "Styr allt från fönstret"
+  },
+  "step3Text": {
+    "message": "Ändra hastighet, ställ in en A-B-loop eller hoppa 10 sekunder utan att gå tillbaka till fliken."
+  },
+  "welcomeCta": {
+    "message": "Testa på YouTube"
+  },
+  "language": {
+    "message": "Språk"
+  },
+  "langAuto": {
+    "message": "Webbläsarens språk"
+  }
+}

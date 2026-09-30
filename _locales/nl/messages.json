@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Snelheid & Herhalen – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: video's in een zwevend venster met snelheid, A-B-herhaling, 10 s overslaan en volume."
+  },
+  "actionTitle": {
+    "message": "Floaty – sneltoetsen en hulp"
+  },
+  "placeholder": {
+    "message": "Speelt af in het Floaty-venster"
+  },
+  "btnPlayer": {
+    "message": "Losmaken met Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Open eerst een YouTube-video."
+  },
+  "toastNeedClick": {
+    "message": "Klik op de Floaty-knop in de speler of druk op Alt+P."
+  },
+  "seek": {
+    "message": "Voortgang"
+  },
+  "play": {
+    "message": "Afspelen"
+  },
+  "pause": {
+    "message": "Pauzeren"
+  },
+  "back10": {
+    "message": "10 seconden terug"
+  },
+  "fwd10": {
+    "message": "10 seconden vooruit"
+  },
+  "prev": {
+    "message": "Vorige"
+  },
+  "next": {
+    "message": "Volgende"
+  },
+  "speed": {
+    "message": "Afspeelsnelheid"
+  },
+  "abLoop": {
+    "message": "A-B-herhaling"
+  },
+  "loop": {
+    "message": "Herhalen"
+  },
+  "loopOn": {
+    "message": "Herhalen aan"
+  },
+  "loopOff": {
+    "message": "Herhalen uit"
+  },
+  "flashA": {
+    "message": "A ingesteld, druk opnieuw bij B"
+  },
+  "flashABShort": {
+    "message": "Speel eerst voorbij punt A"
+  },
+  "flashABOn": {
+    "message": "A-B-herhaling aan"
+  },
+  "flashABOff": {
+    "message": "A-B-herhaling uit"
+  },
+  "mute": {
+    "message": "Dempen"
+  },
+  "unmute": {
+    "message": "Dempen opheffen"
+  },
+  "volume": {
+    "message": "Volume"
+  },
+  "backToTab": {
+    "message": "Terug naar tabblad"
+  },
+  "playPause": {
+    "message": "Afspelen / pauzeren"
+  },
+  "skip10": {
+    "message": "10 s terug / vooruit"
+  },
+  "popupTagline": {
+    "message": "Bekijk YouTube in een zwevend venster"
+  },
+  "popupHow": {
+    "message": "Open een YouTube-video en klik op de Floaty-knop in de speler of druk op Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Sneltoetsen in het zwevende venster"
+  },
+  "rateTitle": {
+    "message": "Vind je Floaty handig?"
+  },
+  "rateText": {
+    "message": "Geef een beoordeling in de Chrome Web Store. Het kost 5 seconden en helpt enorm."
+  },
+  "welcomeTitle": {
+    "message": "Floaty is geïnstalleerd"
+  },
+  "welcomeLead": {
+    "message": "Bekijk YouTube in een zwevend venster terwijl je werkt, met ingebouwde snelheid en herhaling."
+  },
+  "step1Title": {
+    "message": "Open een YouTube-video"
+  },
+  "step1Text": {
+    "message": "Klik op de nieuwe Floaty-knop in de bedieningsbalk van de speler of druk op Alt+P."
+  },
+  "step2Title": {
+    "message": "Maak Floaty vast aan je werkbalk"
+  },
+  "step2Text": {
+    "message": "Klik rechtsboven in Chrome op het puzzelstukje en daarna op de punaise naast Floaty."
+  },
+  "step3Title": {
+    "message": "Bedien alles vanuit het venster"
+  },
+  "step3Text": {
+    "message": "Wijzig de snelheid, stel een A-B-herhaling in of spring 10 seconden zonder terug te gaan naar het tabblad."
+  },
+  "welcomeCta": {
+    "message": "Probeer het op YouTube"
+  },
+  "language": {
+    "message": "Taal"
+  },
+  "langAuto": {
+    "message": "Browsertaal"
+  }
+}

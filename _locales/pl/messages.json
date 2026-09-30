@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Prędkość i Pętla – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: filmy w pływającym oknie z prędkością, pętlą A-B, przewijaniem o 10 s i głośnością."
+  },
+  "actionTitle": {
+    "message": "Floaty – skróty i pomoc"
+  },
+  "placeholder": {
+    "message": "Odtwarzanie w oknie Floaty"
+  },
+  "btnPlayer": {
+    "message": "Wysuń z Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Najpierw otwórz film na YouTube."
+  },
+  "toastNeedClick": {
+    "message": "Kliknij przycisk Floaty w odtwarzaczu lub naciśnij Alt+P."
+  },
+  "seek": {
+    "message": "Postęp"
+  },
+  "play": {
+    "message": "Odtwórz"
+  },
+  "pause": {
+    "message": "Wstrzymaj"
+  },
+  "back10": {
+    "message": "10 sekund wstecz"
+  },
+  "fwd10": {
+    "message": "10 sekund do przodu"
+  },
+  "prev": {
+    "message": "Poprzedni"
+  },
+  "next": {
+    "message": "Następny"
+  },
+  "speed": {
+    "message": "Prędkość odtwarzania"
+  },
+  "abLoop": {
+    "message": "Pętla A-B"
+  },
+  "loop": {
+    "message": "Pętla"
+  },
+  "loopOn": {
+    "message": "Pętla włączona"
+  },
+  "loopOff": {
+    "message": "Pętla wyłączona"
+  },
+  "flashA": {
+    "message": "Ustawiono A, naciśnij ponownie w B"
+  },
+  "flashABShort": {
+    "message": "Najpierw przejdź za punkt A"
+  },
+  "flashABOn": {
+    "message": "Pętla A-B włączona"
+  },
+  "flashABOff": {
+    "message": "Pętla A-B wyłączona"
+  },
+  "mute": {
+    "message": "Wycisz"
+  },
+  "unmute": {
+    "message": "Wyłącz wyciszenie"
+  },
+  "volume": {
+    "message": "Głośność"
+  },
+  "backToTab": {
+    "message": "Wróć do karty"
+  },
+  "playPause": {
+    "message": "Odtwórz / wstrzymaj"
+  },
+  "skip10": {
+    "message": "10 s wstecz / do przodu"
+  },
+  "popupTagline": {
+    "message": "Oglądaj YouTube w pływającym oknie"
+  },
+  "popupHow": {
+    "message": "Otwórz film na YouTube i kliknij przycisk Floaty w odtwarzaczu lub naciśnij Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Skróty w pływającym oknie"
+  },
+  "rateTitle": {
+    "message": "Podoba Ci się Floaty?"
+  },
+  "rateText": {
+    "message": "Oceń je w Chrome Web Store. To zajmie 5 sekund i bardzo pomoże."
+  },
+  "welcomeTitle": {
+    "message": "Floaty zainstalowane"
+  },
+  "welcomeLead": {
+    "message": "Oglądaj YouTube w pływającym oknie podczas pracy, z wbudowaną kontrolą prędkości i pętli."
+  },
+  "step1Title": {
+    "message": "Otwórz dowolny film na YouTube"
+  },
+  "step1Text": {
+    "message": "Kliknij nowy przycisk Floaty na pasku sterowania odtwarzacza lub naciśnij Alt+P."
+  },
+  "step2Title": {
+    "message": "Przypnij Floaty do paska narzędzi"
+  },
+  "step2Text": {
+    "message": "Kliknij ikonę puzzla w prawym górnym rogu Chrome, a potem pinezkę obok Floaty."
+  },
+  "step3Title": {
+    "message": "Steruj wszystkim z okna"
+  },
+  "step3Text": {
+    "message": "Zmień prędkość, ustaw pętlę A-B lub przeskocz 10 sekund bez wracania do karty."
+  },
+  "welcomeCta": {
+    "message": "Wypróbuj na YouTube"
+  },
+  "language": {
+    "message": "Język"
+  },
+  "langAuto": {
+    "message": "Język przeglądarki"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: গতি ও লুপ – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: ভাসমান উইন্ডোতে ভিডিও দেখুন, গতি নিয়ন্ত্রণ, A-B লুপ, 10 সেকেন্ড স্কিপ ও ভলিউমসহ।"
+  },
+  "actionTitle": {
+    "message": "Floaty – শর্টকাট ও সাহায্য"
+  },
+  "placeholder": {
+    "message": "Floaty উইন্ডোতে চলছে"
+  },
+  "btnPlayer": {
+    "message": "Floaty দিয়ে পপ আউট করুন (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "প্রথমে একটি YouTube ভিডিও খুলুন।"
+  },
+  "toastNeedClick": {
+    "message": "প্লেয়ারে Floaty বোতামে ক্লিক করুন অথবা Alt+P চাপুন।"
+  },
+  "seek": {
+    "message": "অগ্রগতি"
+  },
+  "play": {
+    "message": "চালান"
+  },
+  "pause": {
+    "message": "বিরতি"
+  },
+  "back10": {
+    "message": "10 সেকেন্ড পিছনে"
+  },
+  "fwd10": {
+    "message": "10 সেকেন্ড সামনে"
+  },
+  "prev": {
+    "message": "আগের"
+  },
+  "next": {
+    "message": "পরের"
+  },
+  "speed": {
+    "message": "প্লেব্যাক গতি"
+  },
+  "abLoop": {
+    "message": "A-B লুপ"
+  },
+  "loop": {
+    "message": "লুপ"
+  },
+  "loopOn": {
+    "message": "লুপ চালু"
+  },
+  "loopOff": {
+    "message": "লুপ বন্ধ"
+  },
+  "flashA": {
+    "message": "A সেট হয়েছে, B-তে আবার চাপুন"
+  },
+  "flashABShort": {
+    "message": "আগে A পয়েন্ট পার হোন"
+  },
+  "flashABOn": {
+    "message": "A-B লুপ চালু"
+  },
+  "flashABOff": {
+    "message": "A-B লুপ বন্ধ"
+  },
+  "mute": {
+    "message": "মিউট"
+  },
+  "unmute": {
+    "message": "আনমিউট"
+  },
+  "volume": {
+    "message": "ভলিউম"
+  },
+  "backToTab": {
+    "message": "ট্যাবে ফিরে যান"
+  },
+  "playPause": {
+    "message": "চালান / বিরতি"
+  },
+  "skip10": {
+    "message": "10 সেকেন্ড পিছনে / সামনে"
+  },
+  "popupTagline": {
+    "message": "ভাসমান উইন্ডোতে YouTube দেখুন"
+  },
+  "popupHow": {
+    "message": "একটি YouTube ভিডিও খুলুন, তারপর প্লেয়ারে Floaty বোতামে ক্লিক করুন অথবা Alt+P চাপুন।"
+  },
+  "popupShortcuts": {
+    "message": "ভাসমান উইন্ডোর শর্টকাট"
+  },
+  "rateTitle": {
+    "message": "Floaty ভালো লাগছে?"
+  },
+  "rateText": {
+    "message": "Chrome ওয়েব স্টোরে রেটিং দিন। মাত্র 5 সেকেন্ড লাগে এবং অনেক সাহায্য করে।"
+  },
+  "welcomeTitle": {
+    "message": "Floaty ইনস্টল হয়েছে"
+  },
+  "welcomeLead": {
+    "message": "কাজ করার সময় ভাসমান উইন্ডোতে YouTube দেখুন, গতি ও লুপ নিয়ন্ত্রণসহ।"
+  },
+  "step1Title": {
+    "message": "যেকোনো YouTube ভিডিও খুলুন"
+  },
+  "step1Text": {
+    "message": "প্লেয়ারের কন্ট্রোল বারে নতুন Floaty বোতামে ক্লিক করুন অথবা Alt+P চাপুন।"
+  },
+  "step2Title": {
+    "message": "Floaty-কে টুলবারে পিন করুন"
+  },
+  "step2Text": {
+    "message": "Chrome-এর উপরে ডানদিকে পাজল আইকনে ক্লিক করুন, তারপর Floaty-এর পাশের পিনে।"
+  },
+  "step3Title": {
+    "message": "উইন্ডো থেকেই সব নিয়ন্ত্রণ করুন"
+  },
+  "step3Text": {
+    "message": "ট্যাবে না ফিরেই গতি বদলান, A-B লুপ সেট করুন বা 10 সেকেন্ড স্কিপ করুন।"
+  },
+  "welcomeCta": {
+    "message": "YouTube-এ চেষ্টা করুন"
+  },
+  "language": {
+    "message": "ভাষা"
+  },
+  "langAuto": {
+    "message": "ব্রাউজারের ভাষা"
+  }
+}

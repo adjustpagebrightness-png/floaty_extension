@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Tempo & Schleife – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: Videos im schwebenden Fenster mit Tempo, A-B-Schleife, 10 s springen und Lautstärke."
+  },
+  "actionTitle": {
+    "message": "Floaty – Tastenkürzel und Hilfe"
+  },
+  "placeholder": {
+    "message": "Wird im Floaty-Fenster abgespielt"
+  },
+  "btnPlayer": {
+    "message": "Mit Floaty auslagern (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Öffne zuerst ein YouTube-Video."
+  },
+  "toastNeedClick": {
+    "message": "Klicke im Player auf die Floaty-Schaltfläche oder drücke Alt+P."
+  },
+  "seek": {
+    "message": "Fortschritt"
+  },
+  "play": {
+    "message": "Abspielen"
+  },
+  "pause": {
+    "message": "Pause"
+  },
+  "back10": {
+    "message": "10 Sekunden zurück"
+  },
+  "fwd10": {
+    "message": "10 Sekunden vor"
+  },
+  "prev": {
+    "message": "Zurück"
+  },
+  "next": {
+    "message": "Weiter"
+  },
+  "speed": {
+    "message": "Wiedergabegeschwindigkeit"
+  },
+  "abLoop": {
+    "message": "A-B-Schleife"
+  },
+  "loop": {
+    "message": "Schleife"
+  },
+  "loopOn": {
+    "message": "Schleife an"
+  },
+  "loopOff": {
+    "message": "Schleife aus"
+  },
+  "flashA": {
+    "message": "A gesetzt, bei B erneut drücken"
+  },
+  "flashABShort": {
+    "message": "Spiele erst über Punkt A hinaus"
+  },
+  "flashABOn": {
+    "message": "A-B-Schleife an"
+  },
+  "flashABOff": {
+    "message": "A-B-Schleife aus"
+  },
+  "mute": {
+    "message": "Stumm"
+  },
+  "unmute": {
+    "message": "Ton an"
+  },
+  "volume": {
+    "message": "Lautstärke"
+  },
+  "backToTab": {
+    "message": "Zurück zum Tab"
+  },
+  "playPause": {
+    "message": "Abspielen / Pause"
+  },
+  "skip10": {
+    "message": "10 s zurück / vor"
+  },
+  "popupTagline": {
+    "message": "YouTube im schwebenden Fenster ansehen"
+  },
+  "popupHow": {
+    "message": "Öffne ein YouTube-Video und klicke im Player auf die Floaty-Schaltfläche oder drücke Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Tastenkürzel im schwebenden Fenster"
+  },
+  "rateTitle": {
+    "message": "Gefällt dir Floaty?"
+  },
+  "rateText": {
+    "message": "Bewerte es im Chrome Web Store. Dauert 5 Sekunden und hilft sehr."
+  },
+  "welcomeTitle": {
+    "message": "Floaty ist installiert"
+  },
+  "welcomeLead": {
+    "message": "Sieh YouTube in einem schwebenden Fenster, während du arbeitest, mit Tempo- und Schleifensteuerung."
+  },
+  "step1Title": {
+    "message": "Öffne ein beliebiges YouTube-Video"
+  },
+  "step1Text": {
+    "message": "Klicke auf die neue Floaty-Schaltfläche in der Steuerleiste des Players oder drücke Alt+P."
+  },
+  "step2Title": {
+    "message": "Floaty an die Symbolleiste anheften"
+  },
+  "step2Text": {
+    "message": "Klicke oben rechts in Chrome auf das Puzzleteil und dann auf die Nadel neben Floaty."
+  },
+  "step3Title": {
+    "message": "Alles im Fenster steuern"
+  },
+  "step3Text": {
+    "message": "Tempo ändern, A-B-Schleife setzen oder 10 Sekunden springen, ohne zum Tab zurückzukehren."
+  },
+  "welcomeCta": {
+    "message": "Auf YouTube ausprobieren"
+  },
+  "language": {
+    "message": "Sprache"
+  },
+  "langAuto": {
+    "message": "Browsersprache"
+  }
+}

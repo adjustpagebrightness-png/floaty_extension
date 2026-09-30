@@ -1,0 +1,102 @@
+<!doctype html>
+<!-- Floaty – YouTube Pop Out Player | (c) 2026 Floaty. All rights reserved. See LICENSE. -->
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title data-i18n="welcomeTitle">Floaty is installed</title>
+  <link rel="icon" href="../icons/icon32.png">
+  <link rel="stylesheet" href="welcome.css">
+</head>
+<body>
+  <canvas id="confetti" aria-hidden="true"></canvas>
+
+  <header class="hero">
+    <img class="logo" src="../icons/icon128.png" alt="" width="88" height="88">
+    <h1 data-i18n="welcomeTitle">Floaty is installed</h1>
+    <p class="lead" data-i18n="welcomeLead">Watch YouTube in a floating window while you work, with speed and loop controls built in.</p>
+    <a class="cta" href="https://www.youtube.com/" data-i18n="welcomeCta">Try it on YouTube</a>
+  </header>
+
+  <main>
+    <ol class="steps">
+      <li class="step">
+        <div class="copy">
+          <span class="num">1</span>
+          <h2 data-i18n="step1Title">Open any YouTube video</h2>
+          <p data-i18n="step1Text">Click the new Floaty button in the player's control bar, or press Alt+P.</p>
+        </div>
+        <div class="art" aria-hidden="true">
+          <div class="player">
+            <span class="bigplay"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></span>
+            <div class="bar">
+              <span class="track"><i style="width:38%"></i></span>
+              <div class="ctrls">
+                <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                <span class="grow"></span>
+                <span class="hot"><svg viewBox="0 0 24 24"><path d="M19 7h-8v6h8V7zm2-4H3c-1.1 0-2 .9-2 2v14c0 1.1.9 1.98 2 1.98h18c1.1 0 2-.88 2-1.98V5c0-1.1-.9-2-2-2zm0 16.01H3V4.98h18v14.03z"/></svg></span>
+                <span class="dot"></span><span class="dot"></span>
+              </div>
+            </div>
+          </div>
+          <div class="mini"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
+          <span class="kbdhint"><kbd>Alt</kbd>+<kbd>P</kbd></span>
+        </div>
+      </li>
+
+      <li class="step">
+        <div class="copy">
+          <span class="num">2</span>
+          <h2 data-i18n="step2Title">Pin Floaty to your toolbar</h2>
+          <p data-i18n="step2Text">Click the puzzle piece at the top right of Chrome, then the pin next to Floaty.</p>
+        </div>
+        <div class="art" aria-hidden="true">
+          <div class="browser">
+            <div class="tabs"><span class="tab"></span></div>
+            <div class="toolbar">
+              <span class="omni"></span>
+              <span class="hot"><svg viewBox="0 0 24 24"><path d="M20.5 11H19V7c0-1.1-.9-2-2-2h-4V3.5a2.5 2.5 0 0 0-5 0V5H4c-1.1 0-1.99.9-1.99 2v3.8H3.5c1.49 0 2.7 1.21 2.7 2.7s-1.21 2.7-2.7 2.7H2V20c0 1.1.9 2 2 2h3.8v-1.5c0-1.49 1.21-2.7 2.7-2.7s2.7 1.21 2.7 2.7V22H17c1.1 0 2-.9 2-2v-4h1.5a2.5 2.5 0 0 0 0-5z"/></svg></span>
+              <span class="avatar"></span>
+            </div>
+            <div class="menu">
+              <span class="line w60"></span>
+              <span class="line w40"></span>
+              <div class="row">
+                <img src="../icons/icon32.png" alt="" width="18" height="18">
+                <b>Floaty</b>
+                <span class="hot pin"><svg viewBox="0 0 24 24"><path d="M16 9V4h1c.55 0 1-.45 1-1s-.45-1-1-1H7c-.55 0-1 .45-1 1s.45 1 1 1h1v5c0 1.66-1.34 3-3 3v2h5.97v7l1 1 1-1v-7H19v-2c-1.66 0-3-1.34-3-3z"/></svg></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+
+      <li class="step">
+        <div class="copy">
+          <span class="num">3</span>
+          <h2 data-i18n="step3Title">Control everything from the window</h2>
+          <p data-i18n="step3Text">Change speed, set an A-B loop or skip 10 seconds without going back to the tab.</p>
+        </div>
+        <div class="art" aria-hidden="true">
+          <div class="float">
+            <div class="fbar">
+              <span class="track"><i style="width:56%"></i><em style="left:22%;width:30%"></em></span>
+              <div class="ctrls">
+                <svg viewBox="0 0 24 24"><path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"/></svg>
+                <svg class="big" viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+                <svg viewBox="0 0 24 24" style="transform:scaleX(-1)"><path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"/></svg>
+                <span class="grow"></span>
+                <span class="pill">1.5×</span>
+                <span class="ab">A-B</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ol>
+  </main>
+
+  <script src="i18n.js"></script>
+  <script src="confetti.js"></script>
+</body>
+</html>

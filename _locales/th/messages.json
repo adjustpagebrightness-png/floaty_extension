@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: ความเร็วและวนซ้ำ – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: ดูวิดีโอในหน้าต่างลอย พร้อมปรับความเร็ว วนซ้ำ A-B ข้าม 10 วินาที และระดับเสียง"
+  },
+  "actionTitle": {
+    "message": "Floaty – ทางลัดและความช่วยเหลือ"
+  },
+  "placeholder": {
+    "message": "กำลังเล่นในหน้าต่าง Floaty"
+  },
+  "btnPlayer": {
+    "message": "แยกออกด้วย Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "เปิดวิดีโอ YouTube ก่อน"
+  },
+  "toastNeedClick": {
+    "message": "คลิกปุ่ม Floaty ในเครื่องเล่นหรือกด Alt+P"
+  },
+  "seek": {
+    "message": "ความคืบหน้า"
+  },
+  "play": {
+    "message": "เล่น"
+  },
+  "pause": {
+    "message": "หยุดชั่วคราว"
+  },
+  "back10": {
+    "message": "ย้อนกลับ 10 วินาที"
+  },
+  "fwd10": {
+    "message": "ข้ามไป 10 วินาที"
+  },
+  "prev": {
+    "message": "ก่อนหน้า"
+  },
+  "next": {
+    "message": "ถัดไป"
+  },
+  "speed": {
+    "message": "ความเร็วในการเล่น"
+  },
+  "abLoop": {
+    "message": "วนซ้ำ A-B"
+  },
+  "loop": {
+    "message": "วนซ้ำ"
+  },
+  "loopOn": {
+    "message": "เปิดวนซ้ำ"
+  },
+  "loopOff": {
+    "message": "ปิดวนซ้ำ"
+  },
+  "flashA": {
+    "message": "ตั้งจุด A แล้ว กดอีกครั้งที่จุด B"
+  },
+  "flashABShort": {
+    "message": "เล่นให้เลยจุด A ก่อน"
+  },
+  "flashABOn": {
+    "message": "เปิดวนซ้ำ A-B"
+  },
+  "flashABOff": {
+    "message": "ปิดวนซ้ำ A-B"
+  },
+  "mute": {
+    "message": "ปิดเสียง"
+  },
+  "unmute": {
+    "message": "เปิดเสียง"
+  },
+  "volume": {
+    "message": "ระดับเสียง"
+  },
+  "backToTab": {
+    "message": "กลับไปที่แท็บ"
+  },
+  "playPause": {
+    "message": "เล่น / หยุดชั่วคราว"
+  },
+  "skip10": {
+    "message": "10 วินาที ย้อน / ข้าม"
+  },
+  "popupTagline": {
+    "message": "ดู YouTube ในหน้าต่างลอย"
+  },
+  "popupHow": {
+    "message": "เปิดวิดีโอ YouTube แล้วคลิกปุ่ม Floaty ในเครื่องเล่นหรือกด Alt+P"
+  },
+  "popupShortcuts": {
+    "message": "ทางลัดในหน้าต่างลอย"
+  },
+  "rateTitle": {
+    "message": "ชอบ Floaty ไหม?"
+  },
+  "rateText": {
+    "message": "ให้คะแนนใน Chrome เว็บสโตร์ ใช้เวลาแค่ 5 วินาทีและช่วยเราได้มาก"
+  },
+  "welcomeTitle": {
+    "message": "ติดตั้ง Floaty แล้ว"
+  },
+  "welcomeLead": {
+    "message": "ดู YouTube ในหน้าต่างลอยขณะทำงาน พร้อมตัวควบคุมความเร็วและวนซ้ำ"
+  },
+  "step1Title": {
+    "message": "เปิดวิดีโอ YouTube ใดก็ได้"
+  },
+  "step1Text": {
+    "message": "คลิกปุ่ม Floaty ใหม่ในแถบควบคุมของเครื่องเล่นหรือกด Alt+P"
+  },
+  "step2Title": {
+    "message": "ปักหมุด Floaty ไว้ที่แถบเครื่องมือ"
+  },
+  "step2Text": {
+    "message": "คลิกไอคอนจิ๊กซอว์ที่มุมขวาบนของ Chrome แล้วคลิกหมุดข้าง Floaty"
+  },
+  "step3Title": {
+    "message": "ควบคุมทุกอย่างจากหน้าต่าง"
+  },
+  "step3Text": {
+    "message": "เปลี่ยนความเร็ว ตั้งวนซ้ำ A-B หรือข้าม 10 วินาทีโดยไม่ต้องกลับไปที่แท็บ"
+  },
+  "welcomeCta": {
+    "message": "ลองใช้บน YouTube"
+  },
+  "language": {
+    "message": "ภาษา"
+  },
+  "langAuto": {
+    "message": "ภาษาของเบราว์เซอร์"
+  }
+}

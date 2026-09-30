@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: వేగం & లూప్ – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: ఫ్లోటింగ్ విండోలో వీడియోలు, వేగ నియంత్రణ, A-B లూప్, 10 సెకన్ల స్కిప్, వాల్యూమ్."
+  },
+  "actionTitle": {
+    "message": "Floaty – షార్ట్‌కట్‌లు & సహాయం"
+  },
+  "placeholder": {
+    "message": "Floaty విండోలో ప్లే అవుతోంది"
+  },
+  "btnPlayer": {
+    "message": "Floatyతో పాప్ అవుట్ చేయండి (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "ముందుగా ఒక YouTube వీడియోను తెరవండి."
+  },
+  "toastNeedClick": {
+    "message": "ప్లేయర్‌లోని Floaty బటన్‌ను క్లిక్ చేయండి లేదా Alt+P నొక్కండి."
+  },
+  "seek": {
+    "message": "పురోగతి"
+  },
+  "play": {
+    "message": "ప్లే చేయి"
+  },
+  "pause": {
+    "message": "పాజ్ చేయి"
+  },
+  "back10": {
+    "message": "10 సెకన్లు వెనక్కి"
+  },
+  "fwd10": {
+    "message": "10 సెకన్లు ముందుకు"
+  },
+  "prev": {
+    "message": "మునుపటి"
+  },
+  "next": {
+    "message": "తదుపరి"
+  },
+  "speed": {
+    "message": "ప్లేబ్యాక్ వేగం"
+  },
+  "abLoop": {
+    "message": "A-B లూప్"
+  },
+  "loop": {
+    "message": "లూప్"
+  },
+  "loopOn": {
+    "message": "లూప్ ఆన్"
+  },
+  "loopOff": {
+    "message": "లూప్ ఆఫ్"
+  },
+  "flashA": {
+    "message": "A సెట్ అయింది, B వద్ద మళ్లీ నొక్కండి"
+  },
+  "flashABShort": {
+    "message": "ముందుగా A పాయింట్ దాటండి"
+  },
+  "flashABOn": {
+    "message": "A-B లూప్ ఆన్"
+  },
+  "flashABOff": {
+    "message": "A-B లూప్ ఆఫ్"
+  },
+  "mute": {
+    "message": "మ్యూట్"
+  },
+  "unmute": {
+    "message": "అన్‌మ్యూట్"
+  },
+  "volume": {
+    "message": "వాల్యూమ్"
+  },
+  "backToTab": {
+    "message": "ట్యాబ్‌కు తిరిగి వెళ్లండి"
+  },
+  "playPause": {
+    "message": "ప్లే / పాజ్"
+  },
+  "skip10": {
+    "message": "10 సెకన్లు వెనక్కి / ముందుకు"
+  },
+  "popupTagline": {
+    "message": "ఫ్లోటింగ్ విండోలో YouTube చూడండి"
+  },
+  "popupHow": {
+    "message": "ఒక YouTube వీడియోను తెరిచి, ప్లేయర్‌లోని Floaty బటన్‌ను క్లిక్ చేయండి లేదా Alt+P నొక్కండి."
+  },
+  "popupShortcuts": {
+    "message": "ఫ్లోటింగ్ విండో షార్ట్‌కట్‌లు"
+  },
+  "rateTitle": {
+    "message": "Floaty నచ్చిందా?"
+  },
+  "rateText": {
+    "message": "Chrome వెబ్ స్టోర్‌లో రేటింగ్ ఇవ్వండి. 5 సెకన్లే పడుతుంది, చాలా సహాయపడుతుంది."
+  },
+  "welcomeTitle": {
+    "message": "Floaty ఇన్‌స్టాల్ అయింది"
+  },
+  "welcomeLead": {
+    "message": "పని చేస్తూ ఫ్లోటింగ్ విండోలో YouTube చూడండి, వేగం మరియు లూప్ నియంత్రణలతో."
+  },
+  "step1Title": {
+    "message": "ఏదైనా YouTube వీడియోను తెరవండి"
+  },
+  "step1Text": {
+    "message": "ప్లేయర్ కంట్రోల్ బార్‌లోని కొత్త Floaty బటన్‌ను క్లిక్ చేయండి లేదా Alt+P నొక్కండి."
+  },
+  "step2Title": {
+    "message": "Floatyని టూల్‌బార్‌కు పిన్ చేయండి"
+  },
+  "step2Text": {
+    "message": "Chrome పైన కుడివైపున ఉన్న పజిల్ చిహ్నాన్ని, ఆ తర్వాత Floaty పక్కన ఉన్న పిన్‌ను క్లిక్ చేయండి."
+  },
+  "step3Title": {
+    "message": "విండో నుండే అన్నింటినీ నియంత్రించండి"
+  },
+  "step3Text": {
+    "message": "ట్యాబ్‌కు తిరిగి వెళ్లకుండా వేగం మార్చండి, A-B లూప్ సెట్ చేయండి లేదా 10 సెకన్లు స్కిప్ చేయండి."
+  },
+  "welcomeCta": {
+    "message": "YouTubeలో ప్రయత్నించండి"
+  },
+  "language": {
+    "message": "భాష"
+  },
+  "langAuto": {
+    "message": "బ్రౌజర్ భాష"
+  }
+}

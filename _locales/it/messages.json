@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Velocità e Loop – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: video in una finestra mobile con velocità, loop A-B, salti di 10 s e volume."
+  },
+  "actionTitle": {
+    "message": "Floaty – scorciatoie e aiuto"
+  },
+  "placeholder": {
+    "message": "In riproduzione nella finestra di Floaty"
+  },
+  "btnPlayer": {
+    "message": "Stacca con Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Apri prima un video di YouTube."
+  },
+  "toastNeedClick": {
+    "message": "Fai clic sul pulsante Floaty nel player o premi Alt+P."
+  },
+  "seek": {
+    "message": "Avanzamento"
+  },
+  "play": {
+    "message": "Riproduci"
+  },
+  "pause": {
+    "message": "Pausa"
+  },
+  "back10": {
+    "message": "Indietro di 10 secondi"
+  },
+  "fwd10": {
+    "message": "Avanti di 10 secondi"
+  },
+  "prev": {
+    "message": "Precedente"
+  },
+  "next": {
+    "message": "Successivo"
+  },
+  "speed": {
+    "message": "Velocità di riproduzione"
+  },
+  "abLoop": {
+    "message": "Loop A-B"
+  },
+  "loop": {
+    "message": "Loop"
+  },
+  "loopOn": {
+    "message": "Loop attivo"
+  },
+  "loopOff": {
+    "message": "Loop disattivato"
+  },
+  "flashA": {
+    "message": "A impostato, premi di nuovo su B"
+  },
+  "flashABShort": {
+    "message": "Supera prima il punto A"
+  },
+  "flashABOn": {
+    "message": "Loop A-B attivo"
+  },
+  "flashABOff": {
+    "message": "Loop A-B disattivato"
+  },
+  "mute": {
+    "message": "Disattiva audio"
+  },
+  "unmute": {
+    "message": "Attiva audio"
+  },
+  "volume": {
+    "message": "Volume"
+  },
+  "backToTab": {
+    "message": "Torna alla scheda"
+  },
+  "playPause": {
+    "message": "Riproduci / pausa"
+  },
+  "skip10": {
+    "message": "10 s indietro / avanti"
+  },
+  "popupTagline": {
+    "message": "Guarda YouTube in una finestra mobile"
+  },
+  "popupHow": {
+    "message": "Apri un video di YouTube, poi fai clic sul pulsante Floaty nel player o premi Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Scorciatoie nella finestra mobile"
+  },
+  "rateTitle": {
+    "message": "Ti piace Floaty?"
+  },
+  "rateText": {
+    "message": "Valutalo sul Chrome Web Store. Bastano 5 secondi e ci aiuta molto."
+  },
+  "welcomeTitle": {
+    "message": "Floaty è installato"
+  },
+  "welcomeLead": {
+    "message": "Guarda YouTube in una finestra mobile mentre lavori, con controlli di velocità e loop."
+  },
+  "step1Title": {
+    "message": "Apri un video di YouTube"
+  },
+  "step1Text": {
+    "message": "Fai clic sul nuovo pulsante Floaty nella barra dei controlli del player o premi Alt+P."
+  },
+  "step2Title": {
+    "message": "Fissa Floaty alla barra degli strumenti"
+  },
+  "step2Text": {
+    "message": "Fai clic sul pezzo di puzzle in alto a destra in Chrome, poi sulla puntina accanto a Floaty."
+  },
+  "step3Title": {
+    "message": "Controlla tutto dalla finestra"
+  },
+  "step3Text": {
+    "message": "Cambia velocità, imposta un loop A-B o salta 10 secondi senza tornare alla scheda."
+  },
+  "welcomeCta": {
+    "message": "Provalo su YouTube"
+  },
+  "language": {
+    "message": "Lingua"
+  },
+  "langAuto": {
+    "message": "Lingua del browser"
+  }
+}

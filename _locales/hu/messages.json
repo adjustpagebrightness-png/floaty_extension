@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Sebesség és Ismétlés – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: videók lebegő ablakban sebességgel, A-B ismétléssel, 10 mp-es ugrással és hangerővel."
+  },
+  "actionTitle": {
+    "message": "Floaty – billentyűparancsok és súgó"
+  },
+  "placeholder": {
+    "message": "Lejátszás a Floaty ablakban"
+  },
+  "btnPlayer": {
+    "message": "Kiemelés Floatyval (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Először nyiss meg egy YouTube-videót."
+  },
+  "toastNeedClick": {
+    "message": "Kattints a lejátszóban a Floaty gombra, vagy nyomd meg az Alt+P-t."
+  },
+  "seek": {
+    "message": "Folyamat"
+  },
+  "play": {
+    "message": "Lejátszás"
+  },
+  "pause": {
+    "message": "Szünet"
+  },
+  "back10": {
+    "message": "10 másodperc vissza"
+  },
+  "fwd10": {
+    "message": "10 másodperc előre"
+  },
+  "prev": {
+    "message": "Előző"
+  },
+  "next": {
+    "message": "Következő"
+  },
+  "speed": {
+    "message": "Lejátszási sebesség"
+  },
+  "abLoop": {
+    "message": "A-B ismétlés"
+  },
+  "loop": {
+    "message": "Ismétlés"
+  },
+  "loopOn": {
+    "message": "Ismétlés be"
+  },
+  "loopOff": {
+    "message": "Ismétlés ki"
+  },
+  "flashA": {
+    "message": "A beállítva, nyomd meg újra a B pontnál"
+  },
+  "flashABShort": {
+    "message": "Előbb játszd le az A pontot"
+  },
+  "flashABOn": {
+    "message": "A-B ismétlés be"
+  },
+  "flashABOff": {
+    "message": "A-B ismétlés ki"
+  },
+  "mute": {
+    "message": "Némítás"
+  },
+  "unmute": {
+    "message": "Némítás feloldása"
+  },
+  "volume": {
+    "message": "Hangerő"
+  },
+  "backToTab": {
+    "message": "Vissza a laphoz"
+  },
+  "playPause": {
+    "message": "Lejátszás / szünet"
+  },
+  "skip10": {
+    "message": "10 mp vissza / előre"
+  },
+  "popupTagline": {
+    "message": "Nézd a YouTube-ot lebegő ablakban"
+  },
+  "popupHow": {
+    "message": "Nyiss meg egy YouTube-videót, majd kattints a lejátszóban a Floaty gombra, vagy nyomd meg az Alt+P-t."
+  },
+  "popupShortcuts": {
+    "message": "Billentyűparancsok a lebegő ablakban"
+  },
+  "rateTitle": {
+    "message": "Tetszik a Floaty?"
+  },
+  "rateText": {
+    "message": "Értékeld a Chrome Internetes áruházban. 5 másodperc az egész, és sokat segít."
+  },
+  "welcomeTitle": {
+    "message": "A Floaty telepítve"
+  },
+  "welcomeLead": {
+    "message": "Nézd a YouTube-ot lebegő ablakban munka közben, beépített sebesség- és ismétlésvezérléssel."
+  },
+  "step1Title": {
+    "message": "Nyiss meg bármilyen YouTube-videót"
+  },
+  "step1Text": {
+    "message": "Kattints az új Floaty gombra a lejátszó vezérlősávján, vagy nyomd meg az Alt+P-t."
+  },
+  "step2Title": {
+    "message": "Rögzítsd a Floatyt az eszköztáron"
+  },
+  "step2Text": {
+    "message": "Kattints a Chrome jobb felső sarkában a puzzle ikonra, majd a Floaty melletti gombostűre."
+  },
+  "step3Title": {
+    "message": "Irányíts mindent az ablakból"
+  },
+  "step3Text": {
+    "message": "Válts sebességet, állíts be A-B ismétlést vagy ugorj 10 másodpercet anélkül, hogy visszamennél a lapra."
+  },
+  "welcomeCta": {
+    "message": "Próbáld ki a YouTube-on"
+  },
+  "language": {
+    "message": "Nyelv"
+  },
+  "langAuto": {
+    "message": "Böngésző nyelve"
+  }
+}

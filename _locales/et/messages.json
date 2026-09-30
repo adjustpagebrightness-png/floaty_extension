@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Kiirus ja Kordus – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: videod hõljuvas aknas koos kiiruse, A-B korduse, 10 s hüppe ja helitugevusega."
+  },
+  "actionTitle": {
+    "message": "Floaty – otseteed ja abi"
+  },
+  "placeholder": {
+    "message": "Esitatakse Floaty aknas"
+  },
+  "btnPlayer": {
+    "message": "Ava Floatyga (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Ava esmalt YouTube'i video."
+  },
+  "toastNeedClick": {
+    "message": "Klõpsa pleieris Floaty nuppu või vajuta Alt+P."
+  },
+  "seek": {
+    "message": "Edenemine"
+  },
+  "play": {
+    "message": "Esita"
+  },
+  "pause": {
+    "message": "Peata"
+  },
+  "back10": {
+    "message": "10 sekundit tagasi"
+  },
+  "fwd10": {
+    "message": "10 sekundit edasi"
+  },
+  "prev": {
+    "message": "Eelmine"
+  },
+  "next": {
+    "message": "Järgmine"
+  },
+  "speed": {
+    "message": "Esituskiirus"
+  },
+  "abLoop": {
+    "message": "A-B kordus"
+  },
+  "loop": {
+    "message": "Kordus"
+  },
+  "loopOn": {
+    "message": "Kordus sees"
+  },
+  "loopOff": {
+    "message": "Kordus väljas"
+  },
+  "flashA": {
+    "message": "A on määratud, vajuta uuesti kohas B"
+  },
+  "flashABShort": {
+    "message": "Esita esmalt punktist A edasi"
+  },
+  "flashABOn": {
+    "message": "A-B kordus sees"
+  },
+  "flashABOff": {
+    "message": "A-B kordus väljas"
+  },
+  "mute": {
+    "message": "Vaigista"
+  },
+  "unmute": {
+    "message": "Tühista vaigistus"
+  },
+  "volume": {
+    "message": "Helitugevus"
+  },
+  "backToTab": {
+    "message": "Tagasi vahelehele"
+  },
+  "playPause": {
+    "message": "Esita / peata"
+  },
+  "skip10": {
+    "message": "10 s tagasi / edasi"
+  },
+  "popupTagline": {
+    "message": "Vaata YouTube'i hõljuvas aknas"
+  },
+  "popupHow": {
+    "message": "Ava YouTube'i video ja klõpsa pleieris Floaty nuppu või vajuta Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Hõljuva akna otseteed"
+  },
+  "rateTitle": {
+    "message": "Kas Floaty meeldib?"
+  },
+  "rateText": {
+    "message": "Hinda seda Chrome'i veebipoes. See võtab 5 sekundit ja aitab palju."
+  },
+  "welcomeTitle": {
+    "message": "Floaty on installitud"
+  },
+  "welcomeLead": {
+    "message": "Vaata YouTube'i hõljuvas aknas töö kõrvalt, sisseehitatud kiiruse ja kordusega."
+  },
+  "step1Title": {
+    "message": "Ava mis tahes YouTube'i video"
+  },
+  "step1Text": {
+    "message": "Klõpsa pleieri juhtribal uut Floaty nuppu või vajuta Alt+P."
+  },
+  "step2Title": {
+    "message": "Kinnita Floaty tööriistaribale"
+  },
+  "step2Text": {
+    "message": "Klõpsa Chrome'i paremas ülanurgas pusletükil ja siis Floaty kõrval oleval nõelal."
+  },
+  "step3Title": {
+    "message": "Juhi kõike aknast"
+  },
+  "step3Text": {
+    "message": "Muuda kiirust, sea A-B kordus või hüppa 10 sekundit ilma vahelehele naasmata."
+  },
+  "welcomeCta": {
+    "message": "Proovi YouTube'is"
+  },
+  "language": {
+    "message": "Keel"
+  },
+  "langAuto": {
+    "message": "Brauseri keel"
+  }
+}

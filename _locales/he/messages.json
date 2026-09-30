@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: מהירות ולולאה – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: צפייה בסרטונים בחלון צף עם מהירות, לולאת A-B, דילוג של 10 שניות ועוצמת קול."
+  },
+  "actionTitle": {
+    "message": "Floaty – קיצורי מקלדת ועזרה"
+  },
+  "placeholder": {
+    "message": "מתנגן בחלון של Floaty"
+  },
+  "btnPlayer": {
+    "message": "פתיחה ב-Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "פתחו קודם סרטון ב-YouTube."
+  },
+  "toastNeedClick": {
+    "message": "לחצו על כפתור Floaty בנגן או הקישו Alt+P."
+  },
+  "seek": {
+    "message": "התקדמות"
+  },
+  "play": {
+    "message": "הפעלה"
+  },
+  "pause": {
+    "message": "השהיה"
+  },
+  "back10": {
+    "message": "10 שניות אחורה"
+  },
+  "fwd10": {
+    "message": "10 שניות קדימה"
+  },
+  "prev": {
+    "message": "הקודם"
+  },
+  "next": {
+    "message": "הבא"
+  },
+  "speed": {
+    "message": "מהירות הפעלה"
+  },
+  "abLoop": {
+    "message": "לולאת A-B"
+  },
+  "loop": {
+    "message": "לולאה"
+  },
+  "loopOn": {
+    "message": "לולאה פעילה"
+  },
+  "loopOff": {
+    "message": "לולאה כבויה"
+  },
+  "flashA": {
+    "message": "נקודה A נקבעה, לחצו שוב בנקודה B"
+  },
+  "flashABShort": {
+    "message": "עברו קודם את נקודה A"
+  },
+  "flashABOn": {
+    "message": "לולאת A-B פעילה"
+  },
+  "flashABOff": {
+    "message": "לולאת A-B כבויה"
+  },
+  "mute": {
+    "message": "השתקה"
+  },
+  "unmute": {
+    "message": "ביטול השתקה"
+  },
+  "volume": {
+    "message": "עוצמת קול"
+  },
+  "backToTab": {
+    "message": "חזרה לכרטיסייה"
+  },
+  "playPause": {
+    "message": "הפעלה / השהיה"
+  },
+  "skip10": {
+    "message": "10 שניות אחורה / קדימה"
+  },
+  "popupTagline": {
+    "message": "צפו ב-YouTube בחלון צף"
+  },
+  "popupHow": {
+    "message": "פתחו סרטון ב-YouTube ולחצו על כפתור Floaty בנגן או הקישו Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "קיצורי מקלדת בחלון הצף"
+  },
+  "rateTitle": {
+    "message": "נהנים מ-Floaty?"
+  },
+  "rateText": {
+    "message": "דרגו אותו ב-Chrome Web Store. זה לוקח 5 שניות ועוזר מאוד."
+  },
+  "welcomeTitle": {
+    "message": "Floaty הותקן"
+  },
+  "welcomeLead": {
+    "message": "צפו ב-YouTube בחלון צף תוך כדי עבודה, עם שליטה מובנית במהירות ובלולאה."
+  },
+  "step1Title": {
+    "message": "פתחו סרטון כלשהו ב-YouTube"
+  },
+  "step1Text": {
+    "message": "לחצו על כפתור Floaty החדש בסרגל הבקרה של הנגן, או הקישו Alt+P."
+  },
+  "step2Title": {
+    "message": "הצמידו את Floaty לסרגל הכלים"
+  },
+  "step2Text": {
+    "message": "לחצו על סמל חלק הפאזל בסרגל הכלים של Chrome, ואז על הנעץ שליד Floaty."
+  },
+  "step3Title": {
+    "message": "שליטה מלאה מתוך החלון"
+  },
+  "step3Text": {
+    "message": "שנו מהירות, הגדירו לולאת A-B או דלגו 10 שניות בלי לחזור לכרטיסייה."
+  },
+  "welcomeCta": {
+    "message": "נסו ב-YouTube"
+  },
+  "language": {
+    "message": "שפה"
+  },
+  "langAuto": {
+    "message": "שפת הדפדפן"
+  }
+}

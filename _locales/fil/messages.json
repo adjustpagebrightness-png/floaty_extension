@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Bilis at Loop – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: manood ng video sa lumulutang na window, may bilis, A-B loop, 10s skip at volume."
+  },
+  "actionTitle": {
+    "message": "Floaty – mga shortcut at tulong"
+  },
+  "placeholder": {
+    "message": "Nagpe-play sa Floaty window"
+  },
+  "btnPlayer": {
+    "message": "I-pop out gamit ang Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Magbukas muna ng video sa YouTube."
+  },
+  "toastNeedClick": {
+    "message": "I-click ang Floaty button sa player o pindutin ang Alt+P."
+  },
+  "seek": {
+    "message": "Progreso"
+  },
+  "play": {
+    "message": "I-play"
+  },
+  "pause": {
+    "message": "I-pause"
+  },
+  "back10": {
+    "message": "Bumalik ng 10 segundo"
+  },
+  "fwd10": {
+    "message": "Umabante ng 10 segundo"
+  },
+  "prev": {
+    "message": "Nakaraan"
+  },
+  "next": {
+    "message": "Susunod"
+  },
+  "speed": {
+    "message": "Bilis ng playback"
+  },
+  "abLoop": {
+    "message": "A-B loop"
+  },
+  "loop": {
+    "message": "Loop"
+  },
+  "loopOn": {
+    "message": "Naka-on ang loop"
+  },
+  "loopOff": {
+    "message": "Naka-off ang loop"
+  },
+  "flashA": {
+    "message": "Naitakda ang A, pindutin ulit sa B"
+  },
+  "flashABShort": {
+    "message": "Lampasan muna ang point A"
+  },
+  "flashABOn": {
+    "message": "Naka-on ang A-B loop"
+  },
+  "flashABOff": {
+    "message": "Naka-off ang A-B loop"
+  },
+  "mute": {
+    "message": "I-mute"
+  },
+  "unmute": {
+    "message": "I-unmute"
+  },
+  "volume": {
+    "message": "Volume"
+  },
+  "backToTab": {
+    "message": "Bumalik sa tab"
+  },
+  "playPause": {
+    "message": "I-play / i-pause"
+  },
+  "skip10": {
+    "message": "10 s pabalik / pasulong"
+  },
+  "popupTagline": {
+    "message": "Manood ng YouTube sa lumulutang na window"
+  },
+  "popupHow": {
+    "message": "Magbukas ng video sa YouTube, pagkatapos ay i-click ang Floaty button sa player o pindutin ang Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Mga shortcut sa lumulutang na window"
+  },
+  "rateTitle": {
+    "message": "Nagustuhan mo ba ang Floaty?"
+  },
+  "rateText": {
+    "message": "I-rate ito sa Chrome Web Store. 5 segundo lang at malaking tulong."
+  },
+  "welcomeTitle": {
+    "message": "Na-install na ang Floaty"
+  },
+  "welcomeLead": {
+    "message": "Manood ng YouTube sa lumulutang na window habang nagtatrabaho, may kontrol sa bilis at loop."
+  },
+  "step1Title": {
+    "message": "Magbukas ng kahit anong video sa YouTube"
+  },
+  "step1Text": {
+    "message": "I-click ang bagong Floaty button sa control bar ng player o pindutin ang Alt+P."
+  },
+  "step2Title": {
+    "message": "I-pin ang Floaty sa toolbar"
+  },
+  "step2Text": {
+    "message": "I-click ang puzzle piece sa kanang itaas ng Chrome, pagkatapos ang pin sa tabi ng Floaty."
+  },
+  "step3Title": {
+    "message": "Kontrolin ang lahat mula sa window"
+  },
+  "step3Text": {
+    "message": "Baguhin ang bilis, magtakda ng A-B loop o lumaktaw ng 10 segundo nang hindi bumabalik sa tab."
+  },
+  "welcomeCta": {
+    "message": "Subukan sa YouTube"
+  },
+  "language": {
+    "message": "Wika"
+  },
+  "langAuto": {
+    "message": "Wika ng browser"
+  }
+}

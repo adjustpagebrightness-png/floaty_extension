@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Kelajuan & Ulang – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: tonton video dalam tetingkap terapung dengan kelajuan, ulang A-B, langkau 10 saat dan kelantangan."
+  },
+  "actionTitle": {
+    "message": "Floaty – pintasan dan bantuan"
+  },
+  "placeholder": {
+    "message": "Dimainkan dalam tetingkap Floaty"
+  },
+  "btnPlayer": {
+    "message": "Keluarkan dengan Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Buka video YouTube dahulu."
+  },
+  "toastNeedClick": {
+    "message": "Klik butang Floaty dalam pemain atau tekan Alt+P."
+  },
+  "seek": {
+    "message": "Kemajuan"
+  },
+  "play": {
+    "message": "Main"
+  },
+  "pause": {
+    "message": "Jeda"
+  },
+  "back10": {
+    "message": "Undur 10 saat"
+  },
+  "fwd10": {
+    "message": "Maju 10 saat"
+  },
+  "prev": {
+    "message": "Sebelumnya"
+  },
+  "next": {
+    "message": "Seterusnya"
+  },
+  "speed": {
+    "message": "Kelajuan main balik"
+  },
+  "abLoop": {
+    "message": "Ulang A-B"
+  },
+  "loop": {
+    "message": "Ulang"
+  },
+  "loopOn": {
+    "message": "Ulang dihidupkan"
+  },
+  "loopOff": {
+    "message": "Ulang dimatikan"
+  },
+  "flashA": {
+    "message": "A ditetapkan, tekan lagi di B"
+  },
+  "flashABShort": {
+    "message": "Lepasi titik A dahulu"
+  },
+  "flashABOn": {
+    "message": "Ulang A-B dihidupkan"
+  },
+  "flashABOff": {
+    "message": "Ulang A-B dimatikan"
+  },
+  "mute": {
+    "message": "Redam"
+  },
+  "unmute": {
+    "message": "Nyahredam"
+  },
+  "volume": {
+    "message": "Kelantangan"
+  },
+  "backToTab": {
+    "message": "Kembali ke tab"
+  },
+  "playPause": {
+    "message": "Main / jeda"
+  },
+  "skip10": {
+    "message": "10 saat undur / maju"
+  },
+  "popupTagline": {
+    "message": "Tonton YouTube dalam tetingkap terapung"
+  },
+  "popupHow": {
+    "message": "Buka video YouTube, kemudian klik butang Floaty dalam pemain atau tekan Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Pintasan dalam tetingkap terapung"
+  },
+  "rateTitle": {
+    "message": "Suka Floaty?"
+  },
+  "rateText": {
+    "message": "Beri penilaian di Chrome Web Store. Hanya 5 saat dan sangat membantu."
+  },
+  "welcomeTitle": {
+    "message": "Floaty telah dipasang"
+  },
+  "welcomeLead": {
+    "message": "Tonton YouTube dalam tetingkap terapung sambil bekerja, dengan kawalan kelajuan dan ulang."
+  },
+  "step1Title": {
+    "message": "Buka mana-mana video YouTube"
+  },
+  "step1Text": {
+    "message": "Klik butang Floaty baharu pada bar kawalan pemain atau tekan Alt+P."
+  },
+  "step2Title": {
+    "message": "Sematkan Floaty pada bar alat"
+  },
+  "step2Text": {
+    "message": "Klik ikon kepingan teka-teki di kanan atas Chrome, kemudian pin di sebelah Floaty."
+  },
+  "step3Title": {
+    "message": "Kawal semuanya dari tetingkap"
+  },
+  "step3Text": {
+    "message": "Tukar kelajuan, tetapkan ulang A-B atau langkau 10 saat tanpa kembali ke tab."
+  },
+  "welcomeCta": {
+    "message": "Cuba di YouTube"
+  },
+  "language": {
+    "message": "Bahasa"
+  },
+  "langAuto": {
+    "message": "Bahasa penyemak imbas"
+  }
+}

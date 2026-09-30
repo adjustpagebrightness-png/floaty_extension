@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: வேகம் & லூப் – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: மிதக்கும் சாளரத்தில் வீடியோ, வேகம், A-B லூப், 10 வினாடி தாவல், ஒலி."
+  },
+  "actionTitle": {
+    "message": "Floaty – குறுக்குவழிகள் & உதவி"
+  },
+  "placeholder": {
+    "message": "Floaty சாளரத்தில் இயங்குகிறது"
+  },
+  "btnPlayer": {
+    "message": "Floaty மூலம் பாப் அவுட் (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "முதலில் ஒரு YouTube வீடியோவைத் திறக்கவும்."
+  },
+  "toastNeedClick": {
+    "message": "பிளேயரில் உள்ள Floaty பொத்தானைக் கிளிக் செய்யவும் அல்லது Alt+P அழுத்தவும்."
+  },
+  "seek": {
+    "message": "முன்னேற்றம்"
+  },
+  "play": {
+    "message": "இயக்கு"
+  },
+  "pause": {
+    "message": "இடைநிறுத்து"
+  },
+  "back10": {
+    "message": "10 வினாடி பின்"
+  },
+  "fwd10": {
+    "message": "10 வினாடி முன்"
+  },
+  "prev": {
+    "message": "முந்தையது"
+  },
+  "next": {
+    "message": "அடுத்தது"
+  },
+  "speed": {
+    "message": "இயக்க வேகம்"
+  },
+  "abLoop": {
+    "message": "A-B லூப்"
+  },
+  "loop": {
+    "message": "லூப்"
+  },
+  "loopOn": {
+    "message": "லூப் இயக்கத்தில்"
+  },
+  "loopOff": {
+    "message": "லூப் நிறுத்தத்தில்"
+  },
+  "flashA": {
+    "message": "A அமைக்கப்பட்டது, B-யில் மீண்டும் அழுத்தவும்"
+  },
+  "flashABShort": {
+    "message": "முதலில் A புள்ளியைக் கடக்கவும்"
+  },
+  "flashABOn": {
+    "message": "A-B லூப் இயக்கத்தில்"
+  },
+  "flashABOff": {
+    "message": "A-B லூப் நிறுத்தத்தில்"
+  },
+  "mute": {
+    "message": "ஒலியடக்கு"
+  },
+  "unmute": {
+    "message": "ஒலியை இயக்கு"
+  },
+  "volume": {
+    "message": "ஒலியளவு"
+  },
+  "backToTab": {
+    "message": "தாவலுக்குத் திரும்பு"
+  },
+  "playPause": {
+    "message": "இயக்கு / இடைநிறுத்து"
+  },
+  "skip10": {
+    "message": "10 வினாடி பின் / முன்"
+  },
+  "popupTagline": {
+    "message": "மிதக்கும் சாளரத்தில் YouTube பாருங்கள்"
+  },
+  "popupHow": {
+    "message": "ஒரு YouTube வீடியோவைத் திறந்து, பிளேயரில் உள்ள Floaty பொத்தானைக் கிளிக் செய்யவும் அல்லது Alt+P அழுத்தவும்."
+  },
+  "popupShortcuts": {
+    "message": "மிதக்கும் சாளரக் குறுக்குவழிகள்"
+  },
+  "rateTitle": {
+    "message": "Floaty பிடித்திருக்கிறதா?"
+  },
+  "rateText": {
+    "message": "Chrome இணைய அங்காடியில் மதிப்பிடுங்கள். 5 வினாடிகளே ஆகும், பெரிதும் உதவும்."
+  },
+  "welcomeTitle": {
+    "message": "Floaty நிறுவப்பட்டது"
+  },
+  "welcomeLead": {
+    "message": "வேலை செய்தபடி மிதக்கும் சாளரத்தில் YouTube பாருங்கள், வேகம் மற்றும் லூப் கட்டுப்பாடுகளுடன்."
+  },
+  "step1Title": {
+    "message": "ஏதேனும் ஒரு YouTube வீடியோவைத் திறக்கவும்"
+  },
+  "step1Text": {
+    "message": "பிளேயர் கட்டுப்பாட்டுப் பட்டியில் உள்ள புதிய Floaty பொத்தானைக் கிளிக் செய்யவும் அல்லது Alt+P அழுத்தவும்."
+  },
+  "step2Title": {
+    "message": "Floaty-ஐ கருவிப்பட்டியில் பின் செய்யவும்"
+  },
+  "step2Text": {
+    "message": "Chrome-இன் மேல் வலதுபுறம் உள்ள புதிர் ஐகானைக் கிளிக் செய்து, Floaty அருகிலுள்ள பின்னைக் கிளிக் செய்யவும்."
+  },
+  "step3Title": {
+    "message": "சாளரத்திலிருந்தே அனைத்தையும் கட்டுப்படுத்துங்கள்"
+  },
+  "step3Text": {
+    "message": "தாவலுக்குத் திரும்பாமல் வேகத்தை மாற்றலாம், A-B லூப் அமைக்கலாம் அல்லது 10 வினாடி தாவலாம்."
+  },
+  "welcomeCta": {
+    "message": "YouTube-இல் முயற்சிக்கவும்"
+  },
+  "language": {
+    "message": "மொழி"
+  },
+  "langAuto": {
+    "message": "உலாவி மொழி"
+  }
+}

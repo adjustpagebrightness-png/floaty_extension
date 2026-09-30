@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Hastighed & Gentag – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: videoer i et svævende vindue med hastighed, A-B-gentagelse, spring 10 sek. og lydstyrke."
+  },
+  "actionTitle": {
+    "message": "Floaty – genveje og hjælp"
+  },
+  "placeholder": {
+    "message": "Afspilles i Floaty-vinduet"
+  },
+  "btnPlayer": {
+    "message": "Pop ud med Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Åbn først en YouTube-video."
+  },
+  "toastNeedClick": {
+    "message": "Klik på Floaty-knappen i afspilleren, eller tryk på Alt+P."
+  },
+  "seek": {
+    "message": "Status"
+  },
+  "play": {
+    "message": "Afspil"
+  },
+  "pause": {
+    "message": "Pause"
+  },
+  "back10": {
+    "message": "10 sekunder tilbage"
+  },
+  "fwd10": {
+    "message": "10 sekunder frem"
+  },
+  "prev": {
+    "message": "Forrige"
+  },
+  "next": {
+    "message": "Næste"
+  },
+  "speed": {
+    "message": "Afspilningshastighed"
+  },
+  "abLoop": {
+    "message": "A-B-gentagelse"
+  },
+  "loop": {
+    "message": "Gentag"
+  },
+  "loopOn": {
+    "message": "Gentag til"
+  },
+  "loopOff": {
+    "message": "Gentag fra"
+  },
+  "flashA": {
+    "message": "A er sat, tryk igen ved B"
+  },
+  "flashABShort": {
+    "message": "Afspil først forbi punkt A"
+  },
+  "flashABOn": {
+    "message": "A-B-gentagelse til"
+  },
+  "flashABOff": {
+    "message": "A-B-gentagelse fra"
+  },
+  "mute": {
+    "message": "Slå lyd fra"
+  },
+  "unmute": {
+    "message": "Slå lyd til"
+  },
+  "volume": {
+    "message": "Lydstyrke"
+  },
+  "backToTab": {
+    "message": "Tilbage til fanen"
+  },
+  "playPause": {
+    "message": "Afspil / pause"
+  },
+  "skip10": {
+    "message": "10 sek. tilbage / frem"
+  },
+  "popupTagline": {
+    "message": "Se YouTube i et svævende vindue"
+  },
+  "popupHow": {
+    "message": "Åbn en YouTube-video, og klik på Floaty-knappen i afspilleren, eller tryk på Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Genveje i det svævende vindue"
+  },
+  "rateTitle": {
+    "message": "Kan du lide Floaty?"
+  },
+  "rateText": {
+    "message": "Bedøm den i Chrome Webshop. Det tager 5 sekunder og hjælper meget."
+  },
+  "welcomeTitle": {
+    "message": "Floaty er installeret"
+  },
+  "welcomeLead": {
+    "message": "Se YouTube i et svævende vindue, mens du arbejder, med indbygget hastighed og gentagelse."
+  },
+  "step1Title": {
+    "message": "Åbn en vilkårlig YouTube-video"
+  },
+  "step1Text": {
+    "message": "Klik på den nye Floaty-knap i afspillerens kontrollinje, eller tryk på Alt+P."
+  },
+  "step2Title": {
+    "message": "Fastgør Floaty til værktøjslinjen"
+  },
+  "step2Text": {
+    "message": "Klik på puslespilsbrikken øverst til højre i Chrome og derefter på nålen ved Floaty."
+  },
+  "step3Title": {
+    "message": "Styr alt fra vinduet"
+  },
+  "step3Text": {
+    "message": "Skift hastighed, sæt en A-B-gentagelse, eller spring 10 sekunder uden at gå tilbage til fanen."
+  },
+  "welcomeCta": {
+    "message": "Prøv det på YouTube"
+  },
+  "language": {
+    "message": "Sprog"
+  },
+  "langAuto": {
+    "message": "Browserens sprog"
+  }
+}

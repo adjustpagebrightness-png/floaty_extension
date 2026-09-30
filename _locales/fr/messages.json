@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player : Vitesse et Boucle – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player : vidéos en fenêtre flottante avec vitesse, boucle A-B, saut de 10 s et volume."
+  },
+  "actionTitle": {
+    "message": "Floaty – raccourcis et aide"
+  },
+  "placeholder": {
+    "message": "Lecture dans la fenêtre Floaty"
+  },
+  "btnPlayer": {
+    "message": "Détacher avec Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Ouvrez d'abord une vidéo YouTube."
+  },
+  "toastNeedClick": {
+    "message": "Cliquez sur le bouton Floaty du lecteur ou appuyez sur Alt+P."
+  },
+  "seek": {
+    "message": "Progression"
+  },
+  "play": {
+    "message": "Lecture"
+  },
+  "pause": {
+    "message": "Pause"
+  },
+  "back10": {
+    "message": "Reculer de 10 secondes"
+  },
+  "fwd10": {
+    "message": "Avancer de 10 secondes"
+  },
+  "prev": {
+    "message": "Précédente"
+  },
+  "next": {
+    "message": "Suivante"
+  },
+  "speed": {
+    "message": "Vitesse de lecture"
+  },
+  "abLoop": {
+    "message": "Boucle A-B"
+  },
+  "loop": {
+    "message": "Boucle"
+  },
+  "loopOn": {
+    "message": "Boucle activée"
+  },
+  "loopOff": {
+    "message": "Boucle désactivée"
+  },
+  "flashA": {
+    "message": "A défini, appuyez à nouveau en B"
+  },
+  "flashABShort": {
+    "message": "Dépassez d'abord le point A"
+  },
+  "flashABOn": {
+    "message": "Boucle A-B activée"
+  },
+  "flashABOff": {
+    "message": "Boucle A-B désactivée"
+  },
+  "mute": {
+    "message": "Couper le son"
+  },
+  "unmute": {
+    "message": "Réactiver le son"
+  },
+  "volume": {
+    "message": "Volume"
+  },
+  "backToTab": {
+    "message": "Retour à l'onglet"
+  },
+  "playPause": {
+    "message": "Lecture / pause"
+  },
+  "skip10": {
+    "message": "10 s arrière / avant"
+  },
+  "popupTagline": {
+    "message": "Regardez YouTube dans une fenêtre flottante"
+  },
+  "popupHow": {
+    "message": "Ouvrez une vidéo YouTube, puis cliquez sur le bouton Floaty du lecteur ou appuyez sur Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Raccourcis dans la fenêtre flottante"
+  },
+  "rateTitle": {
+    "message": "Vous aimez Floaty ?"
+  },
+  "rateText": {
+    "message": "Notez-le sur le Chrome Web Store. Cela prend 5 secondes et aide beaucoup."
+  },
+  "welcomeTitle": {
+    "message": "Floaty est installé"
+  },
+  "welcomeLead": {
+    "message": "Regardez YouTube dans une fenêtre flottante pendant que vous travaillez, avec vitesse et boucle intégrées."
+  },
+  "step1Title": {
+    "message": "Ouvrez une vidéo YouTube"
+  },
+  "step1Text": {
+    "message": "Cliquez sur le nouveau bouton Floaty dans la barre de commandes du lecteur, ou appuyez sur Alt+P."
+  },
+  "step2Title": {
+    "message": "Épinglez Floaty à la barre d'outils"
+  },
+  "step2Text": {
+    "message": "Cliquez sur la pièce de puzzle en haut à droite de Chrome, puis sur l'épingle à côté de Floaty."
+  },
+  "step3Title": {
+    "message": "Tout contrôler depuis la fenêtre"
+  },
+  "step3Text": {
+    "message": "Changez la vitesse, créez une boucle A-B ou sautez 10 secondes sans revenir à l'onglet."
+  },
+  "welcomeCta": {
+    "message": "Essayer sur YouTube"
+  },
+  "language": {
+    "message": "Langue"
+  },
+  "langAuto": {
+    "message": "Langue du navigateur"
+  }
+}

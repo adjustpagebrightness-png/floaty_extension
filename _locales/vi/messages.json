@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Tốc độ & Lặp lại – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: xem video trong cửa sổ nổi với chỉnh tốc độ, lặp A-B, tua 10 giây và âm lượng."
+  },
+  "actionTitle": {
+    "message": "Floaty – phím tắt và trợ giúp"
+  },
+  "placeholder": {
+    "message": "Đang phát trong cửa sổ Floaty"
+  },
+  "btnPlayer": {
+    "message": "Tách ra bằng Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Hãy mở một video YouTube trước."
+  },
+  "toastNeedClick": {
+    "message": "Nhấp nút Floaty trong trình phát hoặc nhấn Alt+P."
+  },
+  "seek": {
+    "message": "Tiến trình"
+  },
+  "play": {
+    "message": "Phát"
+  },
+  "pause": {
+    "message": "Tạm dừng"
+  },
+  "back10": {
+    "message": "Lùi 10 giây"
+  },
+  "fwd10": {
+    "message": "Tiến 10 giây"
+  },
+  "prev": {
+    "message": "Trước"
+  },
+  "next": {
+    "message": "Tiếp theo"
+  },
+  "speed": {
+    "message": "Tốc độ phát"
+  },
+  "abLoop": {
+    "message": "Lặp A-B"
+  },
+  "loop": {
+    "message": "Lặp lại"
+  },
+  "loopOn": {
+    "message": "Đã bật lặp lại"
+  },
+  "loopOff": {
+    "message": "Đã tắt lặp lại"
+  },
+  "flashA": {
+    "message": "Đã đặt A, nhấn lại tại B"
+  },
+  "flashABShort": {
+    "message": "Hãy phát qua điểm A trước"
+  },
+  "flashABOn": {
+    "message": "Đã bật lặp A-B"
+  },
+  "flashABOff": {
+    "message": "Đã tắt lặp A-B"
+  },
+  "mute": {
+    "message": "Tắt tiếng"
+  },
+  "unmute": {
+    "message": "Bật tiếng"
+  },
+  "volume": {
+    "message": "Âm lượng"
+  },
+  "backToTab": {
+    "message": "Quay lại tab"
+  },
+  "playPause": {
+    "message": "Phát / tạm dừng"
+  },
+  "skip10": {
+    "message": "10 giây lùi / tiến"
+  },
+  "popupTagline": {
+    "message": "Xem YouTube trong cửa sổ nổi"
+  },
+  "popupHow": {
+    "message": "Mở một video YouTube, rồi nhấp nút Floaty trong trình phát hoặc nhấn Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Phím tắt trong cửa sổ nổi"
+  },
+  "rateTitle": {
+    "message": "Bạn thích Floaty chứ?"
+  },
+  "rateText": {
+    "message": "Hãy đánh giá trên Chrome Web Store. Chỉ mất 5 giây và giúp ích rất nhiều."
+  },
+  "welcomeTitle": {
+    "message": "Đã cài đặt Floaty"
+  },
+  "welcomeLead": {
+    "message": "Xem YouTube trong cửa sổ nổi khi đang làm việc, có sẵn điều khiển tốc độ và lặp lại."
+  },
+  "step1Title": {
+    "message": "Mở một video YouTube bất kỳ"
+  },
+  "step1Text": {
+    "message": "Nhấp nút Floaty mới trên thanh điều khiển của trình phát hoặc nhấn Alt+P."
+  },
+  "step2Title": {
+    "message": "Ghim Floaty vào thanh công cụ"
+  },
+  "step2Text": {
+    "message": "Nhấp biểu tượng mảnh ghép ở góc trên bên phải Chrome, rồi nhấp ghim cạnh Floaty."
+  },
+  "step3Title": {
+    "message": "Điều khiển mọi thứ từ cửa sổ"
+  },
+  "step3Text": {
+    "message": "Đổi tốc độ, đặt lặp A-B hoặc tua 10 giây mà không cần quay lại tab."
+  },
+  "welcomeCta": {
+    "message": "Dùng thử trên YouTube"
+  },
+  "language": {
+    "message": "Ngôn ngữ"
+  },
+  "langAuto": {
+    "message": "Ngôn ngữ trình duyệt"
+  }
+}

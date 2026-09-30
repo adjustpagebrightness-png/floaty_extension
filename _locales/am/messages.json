@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: ፍጥነት እና ድግግሞሽ – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player፦ ቪዲዮን በተንሳፋፊ መስኮት ይመልከቱ፤ ፍጥነት፣ A-B ድግግሞሽ፣ 10 ሰከንድ መዝለል እና ድምፅ።"
+  },
+  "actionTitle": {
+    "message": "Floaty – አቋራጮች እና እገዛ"
+  },
+  "placeholder": {
+    "message": "በFloaty መስኮት ውስጥ እየተጫወተ ነው"
+  },
+  "btnPlayer": {
+    "message": "በFloaty አውጣ (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "መጀመሪያ የYouTube ቪዲዮ ይክፈቱ።"
+  },
+  "toastNeedClick": {
+    "message": "በማጫወቻው ላይ ያለውን የFloaty አዝራር ይጫኑ ወይም Alt+Pን ይጫኑ።"
+  },
+  "seek": {
+    "message": "ሂደት"
+  },
+  "play": {
+    "message": "አጫውት"
+  },
+  "pause": {
+    "message": "ለአፍታ አቁም"
+  },
+  "back10": {
+    "message": "10 ሰከንድ ወደ ኋላ"
+  },
+  "fwd10": {
+    "message": "10 ሰከንድ ወደፊት"
+  },
+  "prev": {
+    "message": "ቀዳሚ"
+  },
+  "next": {
+    "message": "ቀጣይ"
+  },
+  "speed": {
+    "message": "የማጫወቻ ፍጥነት"
+  },
+  "abLoop": {
+    "message": "A-B ድግግሞሽ"
+  },
+  "loop": {
+    "message": "ድግግሞሽ"
+  },
+  "loopOn": {
+    "message": "ድግግሞሽ በርቷል"
+  },
+  "loopOff": {
+    "message": "ድግግሞሽ ጠፍቷል"
+  },
+  "flashA": {
+    "message": "A ተቀምጧል፣ በB ላይ እንደገና ይጫኑ"
+  },
+  "flashABShort": {
+    "message": "መጀመሪያ ነጥብ Aን ይለፉ"
+  },
+  "flashABOn": {
+    "message": "A-B ድግግሞሽ በርቷል"
+  },
+  "flashABOff": {
+    "message": "A-B ድግግሞሽ ጠፍቷል"
+  },
+  "mute": {
+    "message": "ድምፅ አጥፋ"
+  },
+  "unmute": {
+    "message": "ድምፅ መልስ"
+  },
+  "volume": {
+    "message": "ድምፅ"
+  },
+  "backToTab": {
+    "message": "ወደ ትር ተመለስ"
+  },
+  "playPause": {
+    "message": "አጫውት / ለአፍታ አቁም"
+  },
+  "skip10": {
+    "message": "10 ሰከንድ ወደ ኋላ / ወደፊት"
+  },
+  "popupTagline": {
+    "message": "YouTubeን በተንሳፋፊ መስኮት ይመልከቱ"
+  },
+  "popupHow": {
+    "message": "የYouTube ቪዲዮ ይክፈቱ፣ ከዚያ በማጫወቻው ላይ ያለውን የFloaty አዝራር ይጫኑ ወይም Alt+Pን ይጫኑ።"
+  },
+  "popupShortcuts": {
+    "message": "በተንሳፋፊው መስኮት ውስጥ ያሉ አቋራጮች"
+  },
+  "rateTitle": {
+    "message": "Floatyን ወደዱት?"
+  },
+  "rateText": {
+    "message": "በChrome ድር መደብር ላይ ደረጃ ይስጡት። 5 ሰከንድ ብቻ ይወስዳል፤ በጣም ይረዳናል።"
+  },
+  "welcomeTitle": {
+    "message": "Floaty ተጭኗል"
+  },
+  "welcomeLead": {
+    "message": "እየሰሩ YouTubeን በተንሳፋፊ መስኮት ይመልከቱ፤ የፍጥነት እና የድግግሞሽ ቁጥጥሮች አብረው ይመጣሉ።"
+  },
+  "step1Title": {
+    "message": "ማንኛውንም የYouTube ቪዲዮ ይክፈቱ"
+  },
+  "step1Text": {
+    "message": "በማጫወቻው የቁጥጥር አሞሌ ላይ ያለውን አዲሱን የFloaty አዝራር ይጫኑ ወይም Alt+Pን ይጫኑ።"
+  },
+  "step2Title": {
+    "message": "Floatyን በመሣሪያ አሞሌው ላይ ይሰኩ"
+  },
+  "step2Text": {
+    "message": "በChrome ከላይ በቀኝ ያለውን የእንቆቅልሽ አዶ፣ ከዚያ ከFloaty አጠገብ ያለውን ፒን ይጫኑ።"
+  },
+  "step3Title": {
+    "message": "ሁሉንም ከመስኮቱ ይቆጣጠሩ"
+  },
+  "step3Text": {
+    "message": "ወደ ትሩ ሳይመለሱ ፍጥነት ይቀይሩ፣ A-B ድግግሞሽ ያዘጋጁ ወይም 10 ሰከንድ ይዝለሉ።"
+  },
+  "welcomeCta": {
+    "message": "በYouTube ላይ ይሞክሩት"
+  },
+  "language": {
+    "message": "ቋንቋ"
+  },
+  "langAuto": {
+    "message": "የአሳሽ ቋንቋ"
+  }
+}

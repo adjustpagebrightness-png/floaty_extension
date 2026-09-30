@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: 속도 및 반복 – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: 떠 있는 창에서 동영상 시청. 속도 조절, A-B 반복, 10초 건너뛰기, 볼륨 지원."
+  },
+  "actionTitle": {
+    "message": "Floaty – 단축키 및 도움말"
+  },
+  "placeholder": {
+    "message": "Floaty 창에서 재생 중"
+  },
+  "btnPlayer": {
+    "message": "Floaty로 팝아웃 (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "먼저 YouTube 동영상을 여세요."
+  },
+  "toastNeedClick": {
+    "message": "플레이어의 Floaty 버튼을 클릭하거나 Alt+P를 누르세요."
+  },
+  "seek": {
+    "message": "탐색"
+  },
+  "play": {
+    "message": "재생"
+  },
+  "pause": {
+    "message": "일시정지"
+  },
+  "back10": {
+    "message": "10초 뒤로"
+  },
+  "fwd10": {
+    "message": "10초 앞으로"
+  },
+  "prev": {
+    "message": "이전"
+  },
+  "next": {
+    "message": "다음"
+  },
+  "speed": {
+    "message": "재생 속도"
+  },
+  "abLoop": {
+    "message": "A-B 반복"
+  },
+  "loop": {
+    "message": "반복"
+  },
+  "loopOn": {
+    "message": "반복 켜짐"
+  },
+  "loopOff": {
+    "message": "반복 꺼짐"
+  },
+  "flashA": {
+    "message": "A 지정됨, B에서 다시 누르세요"
+  },
+  "flashABShort": {
+    "message": "먼저 A 지점을 지나세요"
+  },
+  "flashABOn": {
+    "message": "A-B 반복 켜짐"
+  },
+  "flashABOff": {
+    "message": "A-B 반복 꺼짐"
+  },
+  "mute": {
+    "message": "음소거"
+  },
+  "unmute": {
+    "message": "음소거 해제"
+  },
+  "volume": {
+    "message": "볼륨"
+  },
+  "backToTab": {
+    "message": "탭으로 돌아가기"
+  },
+  "playPause": {
+    "message": "재생 / 일시정지"
+  },
+  "skip10": {
+    "message": "10초 뒤로 / 앞으로"
+  },
+  "popupTagline": {
+    "message": "떠 있는 창에서 YouTube 시청"
+  },
+  "popupHow": {
+    "message": "YouTube 동영상을 열고 플레이어의 Floaty 버튼을 클릭하거나 Alt+P를 누르세요."
+  },
+  "popupShortcuts": {
+    "message": "떠 있는 창의 단축키"
+  },
+  "rateTitle": {
+    "message": "Floaty가 마음에 드시나요?"
+  },
+  "rateText": {
+    "message": "Chrome 웹 스토어에서 평가해 주세요. 5초면 충분하고 큰 도움이 됩니다."
+  },
+  "welcomeTitle": {
+    "message": "Floaty가 설치되었습니다"
+  },
+  "welcomeLead": {
+    "message": "작업하면서 떠 있는 창으로 YouTube를 시청하세요. 속도와 반복 기능이 내장되어 있습니다."
+  },
+  "step1Title": {
+    "message": "YouTube 동영상 열기"
+  },
+  "step1Text": {
+    "message": "플레이어 컨트롤 바의 새 Floaty 버튼을 클릭하거나 Alt+P를 누르세요."
+  },
+  "step2Title": {
+    "message": "Floaty를 도구 모음에 고정"
+  },
+  "step2Text": {
+    "message": "Chrome 오른쪽 위의 퍼즐 조각을 클릭한 다음 Floaty 옆의 핀을 클릭하세요."
+  },
+  "step3Title": {
+    "message": "창에서 모든 것을 제어"
+  },
+  "step3Text": {
+    "message": "탭으로 돌아가지 않고 속도를 바꾸고, A-B 반복을 설정하거나 10초를 건너뛰세요."
+  },
+  "welcomeCta": {
+    "message": "YouTube에서 사용해 보기"
+  },
+  "language": {
+    "message": "언어"
+  },
+  "langAuto": {
+    "message": "브라우저 언어"
+  }
+}

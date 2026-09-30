@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: السرعة والتكرار – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: شاهد الفيديو في نافذة عائمة مع التحكم بالسرعة وتكرار A-B وتخطي 10 ثوانٍ والصوت."
+  },
+  "actionTitle": {
+    "message": "Floaty – الاختصارات والمساعدة"
+  },
+  "placeholder": {
+    "message": "يتم التشغيل في نافذة Floaty"
+  },
+  "btnPlayer": {
+    "message": "افتح في Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "افتح فيديو على YouTube أولاً."
+  },
+  "toastNeedClick": {
+    "message": "انقر على زر Floaty في المشغّل أو اضغط Alt+P."
+  },
+  "seek": {
+    "message": "التقدّم"
+  },
+  "play": {
+    "message": "تشغيل"
+  },
+  "pause": {
+    "message": "إيقاف مؤقت"
+  },
+  "back10": {
+    "message": "رجوع 10 ثوانٍ"
+  },
+  "fwd10": {
+    "message": "تقديم 10 ثوانٍ"
+  },
+  "prev": {
+    "message": "السابق"
+  },
+  "next": {
+    "message": "التالي"
+  },
+  "speed": {
+    "message": "سرعة التشغيل"
+  },
+  "abLoop": {
+    "message": "تكرار A-B"
+  },
+  "loop": {
+    "message": "تكرار"
+  },
+  "loopOn": {
+    "message": "التكرار مفعّل"
+  },
+  "loopOff": {
+    "message": "التكرار متوقف"
+  },
+  "flashA": {
+    "message": "تم تحديد A، اضغط مجددًا عند B"
+  },
+  "flashABShort": {
+    "message": "تجاوز النقطة A أولاً"
+  },
+  "flashABOn": {
+    "message": "تكرار A-B مفعّل"
+  },
+  "flashABOff": {
+    "message": "تكرار A-B متوقف"
+  },
+  "mute": {
+    "message": "كتم الصوت"
+  },
+  "unmute": {
+    "message": "إلغاء كتم الصوت"
+  },
+  "volume": {
+    "message": "مستوى الصوت"
+  },
+  "backToTab": {
+    "message": "العودة إلى علامة التبويب"
+  },
+  "playPause": {
+    "message": "تشغيل / إيقاف مؤقت"
+  },
+  "skip10": {
+    "message": "10 ثوانٍ رجوع / تقديم"
+  },
+  "popupTagline": {
+    "message": "شاهد YouTube في نافذة عائمة"
+  },
+  "popupHow": {
+    "message": "افتح فيديو على YouTube، ثم انقر على زر Floaty في المشغّل أو اضغط Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "الاختصارات في النافذة العائمة"
+  },
+  "rateTitle": {
+    "message": "هل أعجبك Floaty؟"
+  },
+  "rateText": {
+    "message": "قيّمه في سوق Chrome الإلكتروني. يستغرق 5 ثوانٍ ويساعدنا كثيرًا."
+  },
+  "welcomeTitle": {
+    "message": "تم تثبيت Floaty"
+  },
+  "welcomeLead": {
+    "message": "شاهد YouTube في نافذة عائمة أثناء عملك، مع أدوات مدمجة للسرعة والتكرار."
+  },
+  "step1Title": {
+    "message": "افتح أي فيديو على YouTube"
+  },
+  "step1Text": {
+    "message": "انقر على زر Floaty الجديد في شريط تحكم المشغّل، أو اضغط Alt+P."
+  },
+  "step2Title": {
+    "message": "ثبّت Floaty في شريط الأدوات"
+  },
+  "step2Text": {
+    "message": "انقر على قطعة الأحجية في شريط أدوات Chrome، ثم على الدبوس بجانب Floaty."
+  },
+  "step3Title": {
+    "message": "تحكّم في كل شيء من النافذة"
+  },
+  "step3Text": {
+    "message": "غيّر السرعة أو اضبط تكرار A-B أو تخطَّ 10 ثوانٍ دون العودة إلى علامة التبويب."
+  },
+  "welcomeCta": {
+    "message": "جرّبه على YouTube"
+  },
+  "language": {
+    "message": "اللغة"
+  },
+  "langAuto": {
+    "message": "لغة المتصفح"
+  }
+}

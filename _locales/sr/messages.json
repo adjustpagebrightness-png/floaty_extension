@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: брзина и понављање – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: видео у плутајућем прозору са брзином, A-B понављањем, скоком од 10 с и звуком."
+  },
+  "actionTitle": {
+    "message": "Floaty – пречице и помоћ"
+  },
+  "placeholder": {
+    "message": "Репродукује се у прозору Floaty"
+  },
+  "btnPlayer": {
+    "message": "Издвоји помоћу Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Прво отворите YouTube видео."
+  },
+  "toastNeedClick": {
+    "message": "Кликните на дугме Floaty у плејеру или притисните Alt+P."
+  },
+  "seek": {
+    "message": "Напредак"
+  },
+  "play": {
+    "message": "Пусти"
+  },
+  "pause": {
+    "message": "Паузирај"
+  },
+  "back10": {
+    "message": "10 секунди уназад"
+  },
+  "fwd10": {
+    "message": "10 секунди унапред"
+  },
+  "prev": {
+    "message": "Претходно"
+  },
+  "next": {
+    "message": "Следеће"
+  },
+  "speed": {
+    "message": "Брзина репродукције"
+  },
+  "abLoop": {
+    "message": "A-B понављање"
+  },
+  "loop": {
+    "message": "Понављање"
+  },
+  "loopOn": {
+    "message": "Понављање укључено"
+  },
+  "loopOff": {
+    "message": "Понављање искључено"
+  },
+  "flashA": {
+    "message": "A је постављено, притисните поново код B"
+  },
+  "flashABShort": {
+    "message": "Прво пређите тачку A"
+  },
+  "flashABOn": {
+    "message": "A-B понављање укључено"
+  },
+  "flashABOff": {
+    "message": "A-B понављање искључено"
+  },
+  "mute": {
+    "message": "Искључи звук"
+  },
+  "unmute": {
+    "message": "Укључи звук"
+  },
+  "volume": {
+    "message": "Јачина звука"
+  },
+  "backToTab": {
+    "message": "Назад на картицу"
+  },
+  "playPause": {
+    "message": "Пусти / паузирај"
+  },
+  "skip10": {
+    "message": "10 с уназад / унапред"
+  },
+  "popupTagline": {
+    "message": "Гледајте YouTube у плутајућем прозору"
+  },
+  "popupHow": {
+    "message": "Отворите YouTube видео, па кликните на дугме Floaty у плејеру или притисните Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Пречице у плутајућем прозору"
+  },
+  "rateTitle": {
+    "message": "Свиђа вам се Floaty?"
+  },
+  "rateText": {
+    "message": "Оцените га у Chrome веб-продавници. Траје 5 секунди и много помаже."
+  },
+  "welcomeTitle": {
+    "message": "Floaty је инсталиран"
+  },
+  "welcomeLead": {
+    "message": "Гледајте YouTube у плутајућем прозору док радите, са уграђеном брзином и понављањем."
+  },
+  "step1Title": {
+    "message": "Отворите било који YouTube видео"
+  },
+  "step1Text": {
+    "message": "Кликните на ново дугме Floaty на траци контрола плејера или притисните Alt+P."
+  },
+  "step2Title": {
+    "message": "Закачите Floaty на траку са алаткама"
+  },
+  "step2Text": {
+    "message": "Кликните на део слагалице горе десно у Chrome-у, а затим на чиоду поред Floaty."
+  },
+  "step3Title": {
+    "message": "Управљајте свиме из прозора"
+  },
+  "step3Text": {
+    "message": "Промените брзину, подесите A-B понављање или прескочите 10 секунди без враћања на картицу."
+  },
+  "welcomeCta": {
+    "message": "Испробајте на YouTube-у"
+  },
+  "language": {
+    "message": "Језик"
+  },
+  "langAuto": {
+    "message": "Језик прегледача"
+  }
+}

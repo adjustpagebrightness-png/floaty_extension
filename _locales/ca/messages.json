@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Velocitat i Bucle – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: vídeos en una finestra flotant amb velocitat, bucle A-B, salts de 10 s i volum."
+  },
+  "actionTitle": {
+    "message": "Floaty – dreceres i ajuda"
+  },
+  "placeholder": {
+    "message": "S'està reproduint a la finestra de Floaty"
+  },
+  "btnPlayer": {
+    "message": "Treu amb Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Primer obre un vídeo de YouTube."
+  },
+  "toastNeedClick": {
+    "message": "Fes clic al botó de Floaty del reproductor o prem Alt+P."
+  },
+  "seek": {
+    "message": "Progrés"
+  },
+  "play": {
+    "message": "Reprodueix"
+  },
+  "pause": {
+    "message": "Pausa"
+  },
+  "back10": {
+    "message": "Enrere 10 segons"
+  },
+  "fwd10": {
+    "message": "Endavant 10 segons"
+  },
+  "prev": {
+    "message": "Anterior"
+  },
+  "next": {
+    "message": "Següent"
+  },
+  "speed": {
+    "message": "Velocitat de reproducció"
+  },
+  "abLoop": {
+    "message": "Bucle A-B"
+  },
+  "loop": {
+    "message": "Bucle"
+  },
+  "loopOn": {
+    "message": "Bucle activat"
+  },
+  "loopOff": {
+    "message": "Bucle desactivat"
+  },
+  "flashA": {
+    "message": "A marcat, prem de nou a B"
+  },
+  "flashABShort": {
+    "message": "Primer passa el punt A"
+  },
+  "flashABOn": {
+    "message": "Bucle A-B activat"
+  },
+  "flashABOff": {
+    "message": "Bucle A-B desactivat"
+  },
+  "mute": {
+    "message": "Silencia"
+  },
+  "unmute": {
+    "message": "Activa el so"
+  },
+  "volume": {
+    "message": "Volum"
+  },
+  "backToTab": {
+    "message": "Torna a la pestanya"
+  },
+  "playPause": {
+    "message": "Reprodueix / pausa"
+  },
+  "skip10": {
+    "message": "10 s enrere / endavant"
+  },
+  "popupTagline": {
+    "message": "Mira YouTube en una finestra flotant"
+  },
+  "popupHow": {
+    "message": "Obre un vídeo de YouTube i fes clic al botó de Floaty del reproductor o prem Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Dreceres a la finestra flotant"
+  },
+  "rateTitle": {
+    "message": "T'agrada Floaty?"
+  },
+  "rateText": {
+    "message": "Valora'l a Chrome Web Store. Són 5 segons i ens ajuda molt."
+  },
+  "welcomeTitle": {
+    "message": "Floaty s'ha instal·lat"
+  },
+  "welcomeLead": {
+    "message": "Mira YouTube en una finestra flotant mentre treballes, amb controls de velocitat i bucle."
+  },
+  "step1Title": {
+    "message": "Obre qualsevol vídeo de YouTube"
+  },
+  "step1Text": {
+    "message": "Fes clic al nou botó de Floaty a la barra de controls del reproductor o prem Alt+P."
+  },
+  "step2Title": {
+    "message": "Fixa Floaty a la barra d'eines"
+  },
+  "step2Text": {
+    "message": "Fes clic a la peça de trencaclosques a dalt a la dreta de Chrome i després a la xinxeta al costat de Floaty."
+  },
+  "step3Title": {
+    "message": "Controla-ho tot des de la finestra"
+  },
+  "step3Text": {
+    "message": "Canvia la velocitat, crea un bucle A-B o salta 10 segons sense tornar a la pestanya."
+  },
+  "welcomeCta": {
+    "message": "Prova-ho a YouTube"
+  },
+  "language": {
+    "message": "Idioma"
+  },
+  "langAuto": {
+    "message": "Idioma del navegador"
+  }
+}

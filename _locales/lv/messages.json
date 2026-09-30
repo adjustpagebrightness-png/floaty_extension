@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Ātrums un Atkārtošana – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: video peldošā logā ar ātrumu, A-B atkārtošanu, 10 s pārlēkšanu un skaļumu."
+  },
+  "actionTitle": {
+    "message": "Floaty – īsinājumtaustiņi un palīdzība"
+  },
+  "placeholder": {
+    "message": "Tiek atskaņots Floaty logā"
+  },
+  "btnPlayer": {
+    "message": "Izvilkt ar Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Vispirms atver YouTube video."
+  },
+  "toastNeedClick": {
+    "message": "Noklikšķini uz Floaty pogas atskaņotājā vai nospied Alt+P."
+  },
+  "seek": {
+    "message": "Progress"
+  },
+  "play": {
+    "message": "Atskaņot"
+  },
+  "pause": {
+    "message": "Pauze"
+  },
+  "back10": {
+    "message": "10 sekundes atpakaļ"
+  },
+  "fwd10": {
+    "message": "10 sekundes uz priekšu"
+  },
+  "prev": {
+    "message": "Iepriekšējais"
+  },
+  "next": {
+    "message": "Nākamais"
+  },
+  "speed": {
+    "message": "Atskaņošanas ātrums"
+  },
+  "abLoop": {
+    "message": "A-B atkārtošana"
+  },
+  "loop": {
+    "message": "Atkārtot"
+  },
+  "loopOn": {
+    "message": "Atkārtošana ieslēgta"
+  },
+  "loopOff": {
+    "message": "Atkārtošana izslēgta"
+  },
+  "flashA": {
+    "message": "A iestatīts, nospied vēlreiz pie B"
+  },
+  "flashABShort": {
+    "message": "Vispirms atskaņo aiz punkta A"
+  },
+  "flashABOn": {
+    "message": "A-B atkārtošana ieslēgta"
+  },
+  "flashABOff": {
+    "message": "A-B atkārtošana izslēgta"
+  },
+  "mute": {
+    "message": "Izslēgt skaņu"
+  },
+  "unmute": {
+    "message": "Ieslēgt skaņu"
+  },
+  "volume": {
+    "message": "Skaļums"
+  },
+  "backToTab": {
+    "message": "Atpakaļ uz cilni"
+  },
+  "playPause": {
+    "message": "Atskaņot / pauze"
+  },
+  "skip10": {
+    "message": "10 s atpakaļ / uz priekšu"
+  },
+  "popupTagline": {
+    "message": "Skaties YouTube peldošā logā"
+  },
+  "popupHow": {
+    "message": "Atver YouTube video un noklikšķini uz Floaty pogas atskaņotājā vai nospied Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Peldošā loga īsinājumtaustiņi"
+  },
+  "rateTitle": {
+    "message": "Patīk Floaty?"
+  },
+  "rateText": {
+    "message": "Novērtē to Chrome interneta veikalā. Tas aizņem 5 sekundes un ļoti palīdz."
+  },
+  "welcomeTitle": {
+    "message": "Floaty ir instalēts"
+  },
+  "welcomeLead": {
+    "message": "Skaties YouTube peldošā logā, kamēr strādā, ar iebūvētu ātruma un atkārtošanas vadību."
+  },
+  "step1Title": {
+    "message": "Atver jebkuru YouTube video"
+  },
+  "step1Text": {
+    "message": "Noklikšķini uz jaunās Floaty pogas atskaņotāja vadības joslā vai nospied Alt+P."
+  },
+  "step2Title": {
+    "message": "Piesprausti Floaty rīkjoslai"
+  },
+  "step2Text": {
+    "message": "Noklikšķini uz puzles gabaliņa Chrome augšējā labajā stūrī un tad uz spraudītes blakus Floaty."
+  },
+  "step3Title": {
+    "message": "Vadi visu no loga"
+  },
+  "step3Text": {
+    "message": "Maini ātrumu, iestati A-B atkārtošanu vai pārlec 10 sekundes, neatgriežoties cilnē."
+  },
+  "welcomeCta": {
+    "message": "Izmēģini YouTube"
+  },
+  "language": {
+    "message": "Valoda"
+  },
+  "langAuto": {
+    "message": "Pārlūka valoda"
+  }
+}

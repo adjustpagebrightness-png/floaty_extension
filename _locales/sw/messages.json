@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Kasi na Kurudia – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: tazama video kwenye dirisha linaloelea, pamoja na kasi, kurudia A-B, kuruka sekunde 10 na sauti."
+  },
+  "actionTitle": {
+    "message": "Floaty – njia za mkato na msaada"
+  },
+  "placeholder": {
+    "message": "Inacheza kwenye dirisha la Floaty"
+  },
+  "btnPlayer": {
+    "message": "Toa kwa Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Fungua video ya YouTube kwanza."
+  },
+  "toastNeedClick": {
+    "message": "Bofya kitufe cha Floaty kwenye kichezaji au bonyeza Alt+P."
+  },
+  "seek": {
+    "message": "Maendeleo"
+  },
+  "play": {
+    "message": "Cheza"
+  },
+  "pause": {
+    "message": "Sitisha"
+  },
+  "back10": {
+    "message": "Rudi nyuma sekunde 10"
+  },
+  "fwd10": {
+    "message": "Songa mbele sekunde 10"
+  },
+  "prev": {
+    "message": "Iliyotangulia"
+  },
+  "next": {
+    "message": "Inayofuata"
+  },
+  "speed": {
+    "message": "Kasi ya kucheza"
+  },
+  "abLoop": {
+    "message": "Kurudia A-B"
+  },
+  "loop": {
+    "message": "Kurudia"
+  },
+  "loopOn": {
+    "message": "Kurudia kumewashwa"
+  },
+  "loopOff": {
+    "message": "Kurudia kumezimwa"
+  },
+  "flashA": {
+    "message": "A imewekwa, bonyeza tena kwenye B"
+  },
+  "flashABShort": {
+    "message": "Pita kwanza sehemu A"
+  },
+  "flashABOn": {
+    "message": "Kurudia A-B kumewashwa"
+  },
+  "flashABOff": {
+    "message": "Kurudia A-B kumezimwa"
+  },
+  "mute": {
+    "message": "Zima sauti"
+  },
+  "unmute": {
+    "message": "Washa sauti"
+  },
+  "volume": {
+    "message": "Sauti"
+  },
+  "backToTab": {
+    "message": "Rudi kwenye kichupo"
+  },
+  "playPause": {
+    "message": "Cheza / sitisha"
+  },
+  "skip10": {
+    "message": "Sekunde 10 nyuma / mbele"
+  },
+  "popupTagline": {
+    "message": "Tazama YouTube kwenye dirisha linaloelea"
+  },
+  "popupHow": {
+    "message": "Fungua video ya YouTube, kisha bofya kitufe cha Floaty kwenye kichezaji au bonyeza Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Njia za mkato kwenye dirisha linaloelea"
+  },
+  "rateTitle": {
+    "message": "Unaipenda Floaty?"
+  },
+  "rateText": {
+    "message": "Ipe ukadiriaji kwenye Chrome Web Store. Inachukua sekunde 5 na inasaidia sana."
+  },
+  "welcomeTitle": {
+    "message": "Floaty imesakinishwa"
+  },
+  "welcomeLead": {
+    "message": "Tazama YouTube kwenye dirisha linaloelea ukifanya kazi, pamoja na vidhibiti vya kasi na kurudia."
+  },
+  "step1Title": {
+    "message": "Fungua video yoyote ya YouTube"
+  },
+  "step1Text": {
+    "message": "Bofya kitufe kipya cha Floaty kwenye upau wa vidhibiti wa kichezaji au bonyeza Alt+P."
+  },
+  "step2Title": {
+    "message": "Bandika Floaty kwenye upau wa zana"
+  },
+  "step2Text": {
+    "message": "Bofya aikoni ya kipande cha fumbo juu kulia mwa Chrome, kisha pini karibu na Floaty."
+  },
+  "step3Title": {
+    "message": "Dhibiti kila kitu kutoka dirishani"
+  },
+  "step3Text": {
+    "message": "Badilisha kasi, weka kurudia A-B au ruka sekunde 10 bila kurudi kwenye kichupo."
+  },
+  "welcomeCta": {
+    "message": "Ijaribu kwenye YouTube"
+  },
+  "language": {
+    "message": "Lugha"
+  },
+  "langAuto": {
+    "message": "Lugha ya kivinjari"
+  }
+}

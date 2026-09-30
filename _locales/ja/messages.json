@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player：速度とループ – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player：動画をフローティングウィンドウで再生。速度調整、A-Bループ、10秒スキップ、音量に対応。"
+  },
+  "actionTitle": {
+    "message": "Floaty – ショートカットとヘルプ"
+  },
+  "placeholder": {
+    "message": "Floatyウィンドウで再生中"
+  },
+  "btnPlayer": {
+    "message": "Floatyでポップアウト（Alt+P）"
+  },
+  "toastNoVideo": {
+    "message": "まずYouTubeの動画を開いてください。"
+  },
+  "toastNeedClick": {
+    "message": "プレーヤーのFloatyボタンをクリックするか、Alt+Pを押してください。"
+  },
+  "seek": {
+    "message": "シーク"
+  },
+  "play": {
+    "message": "再生"
+  },
+  "pause": {
+    "message": "一時停止"
+  },
+  "back10": {
+    "message": "10秒戻る"
+  },
+  "fwd10": {
+    "message": "10秒進む"
+  },
+  "prev": {
+    "message": "前へ"
+  },
+  "next": {
+    "message": "次へ"
+  },
+  "speed": {
+    "message": "再生速度"
+  },
+  "abLoop": {
+    "message": "A-Bループ"
+  },
+  "loop": {
+    "message": "ループ"
+  },
+  "loopOn": {
+    "message": "ループ オン"
+  },
+  "loopOff": {
+    "message": "ループ オフ"
+  },
+  "flashA": {
+    "message": "Aを設定しました。Bでもう一度押してください"
+  },
+  "flashABShort": {
+    "message": "先にA地点を過ぎてください"
+  },
+  "flashABOn": {
+    "message": "A-Bループ オン"
+  },
+  "flashABOff": {
+    "message": "A-Bループ オフ"
+  },
+  "mute": {
+    "message": "ミュート"
+  },
+  "unmute": {
+    "message": "ミュート解除"
+  },
+  "volume": {
+    "message": "音量"
+  },
+  "backToTab": {
+    "message": "タブに戻る"
+  },
+  "playPause": {
+    "message": "再生 / 一時停止"
+  },
+  "skip10": {
+    "message": "10秒 戻る / 進む"
+  },
+  "popupTagline": {
+    "message": "YouTubeをフローティングウィンドウで視聴"
+  },
+  "popupHow": {
+    "message": "YouTubeの動画を開き、プレーヤーのFloatyボタンをクリックするかAlt+Pを押します。"
+  },
+  "popupShortcuts": {
+    "message": "フローティングウィンドウのショートカット"
+  },
+  "rateTitle": {
+    "message": "Floatyは気に入りましたか？"
+  },
+  "rateText": {
+    "message": "Chromeウェブストアで評価してください。5秒で終わり、とても励みになります。"
+  },
+  "welcomeTitle": {
+    "message": "Floatyをインストールしました"
+  },
+  "welcomeLead": {
+    "message": "作業しながらYouTubeをフローティングウィンドウで。速度とループの操作も内蔵。"
+  },
+  "step1Title": {
+    "message": "YouTubeの動画を開く"
+  },
+  "step1Text": {
+    "message": "プレーヤーのコントロールバーにある新しいFloatyボタンをクリックするか、Alt+Pを押します。"
+  },
+  "step2Title": {
+    "message": "Floatyをツールバーに固定"
+  },
+  "step2Text": {
+    "message": "Chrome右上のパズルアイコンをクリックし、Floatyの横のピンをクリックします。"
+  },
+  "step3Title": {
+    "message": "ウィンドウからすべて操作"
+  },
+  "step3Text": {
+    "message": "タブに戻らずに、速度変更、A-Bループ、10秒スキップができます。"
+  },
+  "welcomeCta": {
+    "message": "YouTubeで試す"
+  },
+  "language": {
+    "message": "言語"
+  },
+  "langAuto": {
+    "message": "ブラウザの言語"
+  }
+}

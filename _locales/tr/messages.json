@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Hız ve Döngü – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: videoları yüzen pencerede izle. Hız ayarı, A-B döngü, 10 sn atlama ve ses kontrolü tek yerde."
+  },
+  "actionTitle": {
+    "message": "Floaty – kısayollar ve yardım"
+  },
+  "placeholder": {
+    "message": "Floaty penceresinde oynatılıyor"
+  },
+  "btnPlayer": {
+    "message": "Floaty ile dışarı al (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Önce bir YouTube videosu aç."
+  },
+  "toastNeedClick": {
+    "message": "Oynatıcıdaki Floaty butonuna tıkla veya Alt+P'ye bas."
+  },
+  "seek": {
+    "message": "İlerleme"
+  },
+  "play": {
+    "message": "Oynat"
+  },
+  "pause": {
+    "message": "Duraklat"
+  },
+  "back10": {
+    "message": "10 saniye geri"
+  },
+  "fwd10": {
+    "message": "10 saniye ileri"
+  },
+  "prev": {
+    "message": "Önceki"
+  },
+  "next": {
+    "message": "Sonraki"
+  },
+  "speed": {
+    "message": "Oynatma hızı"
+  },
+  "abLoop": {
+    "message": "A-B döngü"
+  },
+  "loop": {
+    "message": "Döngü"
+  },
+  "loopOn": {
+    "message": "Döngü açık"
+  },
+  "loopOff": {
+    "message": "Döngü kapalı"
+  },
+  "flashA": {
+    "message": "A işaretlendi, B için tekrar bas"
+  },
+  "flashABShort": {
+    "message": "Önce A noktasını geç"
+  },
+  "flashABOn": {
+    "message": "A-B döngü açık"
+  },
+  "flashABOff": {
+    "message": "A-B döngü kapalı"
+  },
+  "mute": {
+    "message": "Sesi kapat"
+  },
+  "unmute": {
+    "message": "Sesi aç"
+  },
+  "volume": {
+    "message": "Ses"
+  },
+  "backToTab": {
+    "message": "Sekmeye dön"
+  },
+  "playPause": {
+    "message": "Oynat / duraklat"
+  },
+  "skip10": {
+    "message": "10 sn geri / ileri"
+  },
+  "popupTagline": {
+    "message": "YouTube'u yüzen pencerede izle"
+  },
+  "popupHow": {
+    "message": "Bir YouTube videosu aç, sonra oynatıcıdaki Floaty butonuna tıkla veya Alt+P'ye bas."
+  },
+  "popupShortcuts": {
+    "message": "Yüzen penceredeki kısayollar"
+  },
+  "rateTitle": {
+    "message": "Floaty'yi beğendin mi?"
+  },
+  "rateText": {
+    "message": "Chrome Web Mağazası'nda puan ver. 5 saniyeni alır, çok işimize yarar."
+  },
+  "welcomeTitle": {
+    "message": "Floaty kuruldu"
+  },
+  "welcomeLead": {
+    "message": "Çalışırken YouTube'u yüzen pencerede izle. Hız ve döngü kontrolleri hazır."
+  },
+  "step1Title": {
+    "message": "Herhangi bir YouTube videosu aç"
+  },
+  "step1Text": {
+    "message": "Oynatıcının kontrol çubuğundaki yeni Floaty butonuna tıkla veya Alt+P'ye bas."
+  },
+  "step2Title": {
+    "message": "Floaty'yi araç çubuğuna sabitle"
+  },
+  "step2Text": {
+    "message": "Chrome'un sağ üstündeki yapboz parçasına, sonra Floaty'nin yanındaki raptiyeye tıkla."
+  },
+  "step3Title": {
+    "message": "Her şeyi pencereden yönet"
+  },
+  "step3Text": {
+    "message": "Sekmeye dönmeden hızı değiştir, A-B döngü kur veya 10 saniye atla."
+  },
+  "welcomeCta": {
+    "message": "YouTube'da dene"
+  },
+  "language": {
+    "message": "Dil"
+  },
+  "langAuto": {
+    "message": "Tarayıcı dili"
+  }
+}

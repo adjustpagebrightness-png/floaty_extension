@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: скорость и повтор – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: видео в плавающем окне со скоростью, повтором A-B, перемоткой на 10 с и громкостью."
+  },
+  "actionTitle": {
+    "message": "Floaty – горячие клавиши и помощь"
+  },
+  "placeholder": {
+    "message": "Воспроизводится в окне Floaty"
+  },
+  "btnPlayer": {
+    "message": "Открыть в Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Сначала откройте видео на YouTube."
+  },
+  "toastNeedClick": {
+    "message": "Нажмите кнопку Floaty в плеере или Alt+P."
+  },
+  "seek": {
+    "message": "Перемотка"
+  },
+  "play": {
+    "message": "Воспроизвести"
+  },
+  "pause": {
+    "message": "Пауза"
+  },
+  "back10": {
+    "message": "Назад на 10 секунд"
+  },
+  "fwd10": {
+    "message": "Вперёд на 10 секунд"
+  },
+  "prev": {
+    "message": "Предыдущее"
+  },
+  "next": {
+    "message": "Следующее"
+  },
+  "speed": {
+    "message": "Скорость воспроизведения"
+  },
+  "abLoop": {
+    "message": "Повтор A-B"
+  },
+  "loop": {
+    "message": "Повтор"
+  },
+  "loopOn": {
+    "message": "Повтор включён"
+  },
+  "loopOff": {
+    "message": "Повтор выключен"
+  },
+  "flashA": {
+    "message": "Точка A задана, нажмите снова в точке B"
+  },
+  "flashABShort": {
+    "message": "Сначала пройдите точку A"
+  },
+  "flashABOn": {
+    "message": "Повтор A-B включён"
+  },
+  "flashABOff": {
+    "message": "Повтор A-B выключен"
+  },
+  "mute": {
+    "message": "Выключить звук"
+  },
+  "unmute": {
+    "message": "Включить звук"
+  },
+  "volume": {
+    "message": "Громкость"
+  },
+  "backToTab": {
+    "message": "Вернуться во вкладку"
+  },
+  "playPause": {
+    "message": "Воспроизведение / пауза"
+  },
+  "skip10": {
+    "message": "10 с назад / вперёд"
+  },
+  "popupTagline": {
+    "message": "Смотрите YouTube в плавающем окне"
+  },
+  "popupHow": {
+    "message": "Откройте видео на YouTube и нажмите кнопку Floaty в плеере или Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Горячие клавиши в плавающем окне"
+  },
+  "rateTitle": {
+    "message": "Нравится Floaty?"
+  },
+  "rateText": {
+    "message": "Оцените его в Chrome Web Store. Это займёт 5 секунд и очень поможет."
+  },
+  "welcomeTitle": {
+    "message": "Floaty установлен"
+  },
+  "welcomeLead": {
+    "message": "Смотрите YouTube в плавающем окне во время работы, со встроенной скоростью и повтором."
+  },
+  "step1Title": {
+    "message": "Откройте любое видео на YouTube"
+  },
+  "step1Text": {
+    "message": "Нажмите новую кнопку Floaty на панели управления плеера или Alt+P."
+  },
+  "step2Title": {
+    "message": "Закрепите Floaty на панели инструментов"
+  },
+  "step2Text": {
+    "message": "Нажмите на значок пазла в правом верхнем углу Chrome, затем на булавку рядом с Floaty."
+  },
+  "step3Title": {
+    "message": "Управляйте всем из окна"
+  },
+  "step3Text": {
+    "message": "Меняйте скорость, задавайте повтор A-B или перематывайте на 10 секунд, не возвращаясь во вкладку."
+  },
+  "welcomeCta": {
+    "message": "Попробовать на YouTube"
+  },
+  "language": {
+    "message": "Язык"
+  },
+  "langAuto": {
+    "message": "Язык браузера"
+  }
+}

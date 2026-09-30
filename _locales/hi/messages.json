@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: स्पीड और लूप – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: फ़्लोटिंग विंडो में वीडियो देखें, स्पीड कंट्रोल, A-B लूप, 10 सेकंड स्किप और वॉल्यूम के साथ।"
+  },
+  "actionTitle": {
+    "message": "Floaty – शॉर्टकट और मदद"
+  },
+  "placeholder": {
+    "message": "Floaty विंडो में चल रहा है"
+  },
+  "btnPlayer": {
+    "message": "Floaty से पॉप आउट करें (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "पहले कोई YouTube वीडियो खोलें।"
+  },
+  "toastNeedClick": {
+    "message": "प्लेयर में Floaty बटन पर क्लिक करें या Alt+P दबाएँ।"
+  },
+  "seek": {
+    "message": "प्रगति"
+  },
+  "play": {
+    "message": "चलाएँ"
+  },
+  "pause": {
+    "message": "रोकें"
+  },
+  "back10": {
+    "message": "10 सेकंड पीछे"
+  },
+  "fwd10": {
+    "message": "10 सेकंड आगे"
+  },
+  "prev": {
+    "message": "पिछला"
+  },
+  "next": {
+    "message": "अगला"
+  },
+  "speed": {
+    "message": "प्लेबैक स्पीड"
+  },
+  "abLoop": {
+    "message": "A-B लूप"
+  },
+  "loop": {
+    "message": "लूप"
+  },
+  "loopOn": {
+    "message": "लूप चालू"
+  },
+  "loopOff": {
+    "message": "लूप बंद"
+  },
+  "flashA": {
+    "message": "A सेट हो गया, B पर फिर से दबाएँ"
+  },
+  "flashABShort": {
+    "message": "पहले पॉइंट A से आगे जाएँ"
+  },
+  "flashABOn": {
+    "message": "A-B लूप चालू"
+  },
+  "flashABOff": {
+    "message": "A-B लूप बंद"
+  },
+  "mute": {
+    "message": "म्यूट करें"
+  },
+  "unmute": {
+    "message": "अनम्यूट करें"
+  },
+  "volume": {
+    "message": "वॉल्यूम"
+  },
+  "backToTab": {
+    "message": "टैब पर वापस जाएँ"
+  },
+  "playPause": {
+    "message": "चलाएँ / रोकें"
+  },
+  "skip10": {
+    "message": "10 सेकंड पीछे / आगे"
+  },
+  "popupTagline": {
+    "message": "YouTube को फ़्लोटिंग विंडो में देखें"
+  },
+  "popupHow": {
+    "message": "कोई YouTube वीडियो खोलें, फिर प्लेयर में Floaty बटन पर क्लिक करें या Alt+P दबाएँ।"
+  },
+  "popupShortcuts": {
+    "message": "फ़्लोटिंग विंडो के शॉर्टकट"
+  },
+  "rateTitle": {
+    "message": "Floaty पसंद आया?"
+  },
+  "rateText": {
+    "message": "Chrome वेब स्टोर पर रेटिंग दें। इसमें 5 सेकंड लगते हैं और बहुत मदद मिलती है।"
+  },
+  "welcomeTitle": {
+    "message": "Floaty इंस्टॉल हो गया"
+  },
+  "welcomeLead": {
+    "message": "काम करते हुए YouTube को फ़्लोटिंग विंडो में देखें, स्पीड और लूप कंट्रोल के साथ।"
+  },
+  "step1Title": {
+    "message": "कोई भी YouTube वीडियो खोलें"
+  },
+  "step1Text": {
+    "message": "प्लेयर के कंट्रोल बार में नए Floaty बटन पर क्लिक करें या Alt+P दबाएँ।"
+  },
+  "step2Title": {
+    "message": "Floaty को टूलबार पर पिन करें"
+  },
+  "step2Text": {
+    "message": "Chrome के ऊपर दाईं ओर पज़ल आइकन पर क्लिक करें, फिर Floaty के पास पिन पर।"
+  },
+  "step3Title": {
+    "message": "विंडो से सब कुछ कंट्रोल करें"
+  },
+  "step3Text": {
+    "message": "टैब पर लौटे बिना स्पीड बदलें, A-B लूप सेट करें या 10 सेकंड स्किप करें।"
+  },
+  "welcomeCta": {
+    "message": "YouTube पर आज़माएँ"
+  },
+  "language": {
+    "message": "भाषा"
+  },
+  "langAuto": {
+    "message": "ब्राउज़र की भाषा"
+  }
+}

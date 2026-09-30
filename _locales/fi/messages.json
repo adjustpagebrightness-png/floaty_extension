@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Nopeus ja Silmukka – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: videot kelluvassa ikkunassa, nopeus, A-B-silmukka, 10 s hyppy ja äänenvoimakkuus."
+  },
+  "actionTitle": {
+    "message": "Floaty – pikanäppäimet ja ohjeet"
+  },
+  "placeholder": {
+    "message": "Toistetaan Floaty-ikkunassa"
+  },
+  "btnPlayer": {
+    "message": "Irrota Floatylla (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Avaa ensin YouTube-video."
+  },
+  "toastNeedClick": {
+    "message": "Napsauta soittimen Floaty-painiketta tai paina Alt+P."
+  },
+  "seek": {
+    "message": "Edistyminen"
+  },
+  "play": {
+    "message": "Toista"
+  },
+  "pause": {
+    "message": "Tauko"
+  },
+  "back10": {
+    "message": "10 sekuntia taaksepäin"
+  },
+  "fwd10": {
+    "message": "10 sekuntia eteenpäin"
+  },
+  "prev": {
+    "message": "Edellinen"
+  },
+  "next": {
+    "message": "Seuraava"
+  },
+  "speed": {
+    "message": "Toistonopeus"
+  },
+  "abLoop": {
+    "message": "A-B-silmukka"
+  },
+  "loop": {
+    "message": "Silmukka"
+  },
+  "loopOn": {
+    "message": "Silmukka päällä"
+  },
+  "loopOff": {
+    "message": "Silmukka pois"
+  },
+  "flashA": {
+    "message": "A asetettu, paina uudelleen kohdassa B"
+  },
+  "flashABShort": {
+    "message": "Toista ensin kohdan A ohi"
+  },
+  "flashABOn": {
+    "message": "A-B-silmukka päällä"
+  },
+  "flashABOff": {
+    "message": "A-B-silmukka pois"
+  },
+  "mute": {
+    "message": "Mykistä"
+  },
+  "unmute": {
+    "message": "Poista mykistys"
+  },
+  "volume": {
+    "message": "Äänenvoimakkuus"
+  },
+  "backToTab": {
+    "message": "Takaisin välilehdelle"
+  },
+  "playPause": {
+    "message": "Toista / tauko"
+  },
+  "skip10": {
+    "message": "10 s taakse / eteen"
+  },
+  "popupTagline": {
+    "message": "Katso YouTubea kelluvassa ikkunassa"
+  },
+  "popupHow": {
+    "message": "Avaa YouTube-video ja napsauta soittimen Floaty-painiketta tai paina Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Kelluvan ikkunan pikanäppäimet"
+  },
+  "rateTitle": {
+    "message": "Pidätkö Floatysta?"
+  },
+  "rateText": {
+    "message": "Arvioi se Chrome Web Storessa. Se vie 5 sekuntia ja auttaa paljon."
+  },
+  "welcomeTitle": {
+    "message": "Floaty on asennettu"
+  },
+  "welcomeLead": {
+    "message": "Katso YouTubea kelluvassa ikkunassa töiden lomassa, nopeus- ja silmukkaohjaimin."
+  },
+  "step1Title": {
+    "message": "Avaa mikä tahansa YouTube-video"
+  },
+  "step1Text": {
+    "message": "Napsauta soittimen ohjauspalkin uutta Floaty-painiketta tai paina Alt+P."
+  },
+  "step2Title": {
+    "message": "Kiinnitä Floaty työkalupalkkiin"
+  },
+  "step2Text": {
+    "message": "Napsauta Chromen oikean yläkulman palapelikuvaketta ja sitten Floatyn vieressä olevaa nastaa."
+  },
+  "step3Title": {
+    "message": "Hallitse kaikkea ikkunasta"
+  },
+  "step3Text": {
+    "message": "Vaihda nopeutta, aseta A-B-silmukka tai hyppää 10 sekuntia palaamatta välilehdelle."
+  },
+  "welcomeCta": {
+    "message": "Kokeile YouTubessa"
+  },
+  "language": {
+    "message": "Kieli"
+  },
+  "langAuto": {
+    "message": "Selaimen kieli"
+  }
+}

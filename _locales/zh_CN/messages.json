@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player：倍速与循环 – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player：在悬浮窗口中观看视频，支持倍速、A-B 循环、10 秒快进快退和音量控制。"
+  },
+  "actionTitle": {
+    "message": "Floaty – 快捷键和帮助"
+  },
+  "placeholder": {
+    "message": "正在 Floaty 窗口中播放"
+  },
+  "btnPlayer": {
+    "message": "用 Floaty 弹出（Alt+P）"
+  },
+  "toastNoVideo": {
+    "message": "请先打开一个 YouTube 视频。"
+  },
+  "toastNeedClick": {
+    "message": "点击播放器中的 Floaty 按钮或按 Alt+P。"
+  },
+  "seek": {
+    "message": "进度"
+  },
+  "play": {
+    "message": "播放"
+  },
+  "pause": {
+    "message": "暂停"
+  },
+  "back10": {
+    "message": "后退 10 秒"
+  },
+  "fwd10": {
+    "message": "前进 10 秒"
+  },
+  "prev": {
+    "message": "上一个"
+  },
+  "next": {
+    "message": "下一个"
+  },
+  "speed": {
+    "message": "播放速度"
+  },
+  "abLoop": {
+    "message": "A-B 循环"
+  },
+  "loop": {
+    "message": "循环"
+  },
+  "loopOn": {
+    "message": "循环已开启"
+  },
+  "loopOff": {
+    "message": "循环已关闭"
+  },
+  "flashA": {
+    "message": "已设置 A，到 B 点时再按一次"
+  },
+  "flashABShort": {
+    "message": "请先播放过 A 点"
+  },
+  "flashABOn": {
+    "message": "A-B 循环已开启"
+  },
+  "flashABOff": {
+    "message": "A-B 循环已关闭"
+  },
+  "mute": {
+    "message": "静音"
+  },
+  "unmute": {
+    "message": "取消静音"
+  },
+  "volume": {
+    "message": "音量"
+  },
+  "backToTab": {
+    "message": "返回标签页"
+  },
+  "playPause": {
+    "message": "播放 / 暂停"
+  },
+  "skip10": {
+    "message": "10 秒 后退 / 前进"
+  },
+  "popupTagline": {
+    "message": "在悬浮窗口中观看 YouTube"
+  },
+  "popupHow": {
+    "message": "打开一个 YouTube 视频，然后点击播放器中的 Floaty 按钮或按 Alt+P。"
+  },
+  "popupShortcuts": {
+    "message": "悬浮窗口中的快捷键"
+  },
+  "rateTitle": {
+    "message": "喜欢 Floaty 吗？"
+  },
+  "rateText": {
+    "message": "请在 Chrome 应用商店给它评分。只需 5 秒，对我们帮助很大。"
+  },
+  "welcomeTitle": {
+    "message": "Floaty 已安装"
+  },
+  "welcomeLead": {
+    "message": "边工作边在悬浮窗口中观看 YouTube，内置倍速和循环控制。"
+  },
+  "step1Title": {
+    "message": "打开任意 YouTube 视频"
+  },
+  "step1Text": {
+    "message": "点击播放器控制栏中新的 Floaty 按钮，或按 Alt+P。"
+  },
+  "step2Title": {
+    "message": "将 Floaty 固定到工具栏"
+  },
+  "step2Text": {
+    "message": "点击 Chrome 右上角的拼图图标，然后点击 Floaty 旁边的图钉。"
+  },
+  "step3Title": {
+    "message": "在窗口中控制一切"
+  },
+  "step3Text": {
+    "message": "无需返回标签页即可调整倍速、设置 A-B 循环或跳过 10 秒。"
+  },
+  "welcomeCta": {
+    "message": "在 YouTube 上试试"
+  },
+  "language": {
+    "message": "语言"
+  },
+  "langAuto": {
+    "message": "浏览器语言"
+  }
+}

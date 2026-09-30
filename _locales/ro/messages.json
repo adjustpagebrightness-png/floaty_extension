@@ -1,0 +1,137 @@
+{
+  "extName": {
+    "message": "YouTube Pop Out Player: Viteză și Buclă – Floaty"
+  },
+  "extDesc": {
+    "message": "YouTube Pop Out Player: videoclipuri într-o fereastră plutitoare cu viteză, buclă A-B, salt de 10 s și volum."
+  },
+  "actionTitle": {
+    "message": "Floaty – comenzi rapide și ajutor"
+  },
+  "placeholder": {
+    "message": "Se redă în fereastra Floaty"
+  },
+  "btnPlayer": {
+    "message": "Detașează cu Floaty (Alt+P)"
+  },
+  "toastNoVideo": {
+    "message": "Deschide mai întâi un videoclip YouTube."
+  },
+  "toastNeedClick": {
+    "message": "Dă clic pe butonul Floaty din player sau apasă Alt+P."
+  },
+  "seek": {
+    "message": "Progres"
+  },
+  "play": {
+    "message": "Redă"
+  },
+  "pause": {
+    "message": "Pauză"
+  },
+  "back10": {
+    "message": "Înapoi 10 secunde"
+  },
+  "fwd10": {
+    "message": "Înainte 10 secunde"
+  },
+  "prev": {
+    "message": "Anterior"
+  },
+  "next": {
+    "message": "Următor"
+  },
+  "speed": {
+    "message": "Viteză de redare"
+  },
+  "abLoop": {
+    "message": "Buclă A-B"
+  },
+  "loop": {
+    "message": "Buclă"
+  },
+  "loopOn": {
+    "message": "Buclă activată"
+  },
+  "loopOff": {
+    "message": "Buclă dezactivată"
+  },
+  "flashA": {
+    "message": "A setat, apasă din nou la B"
+  },
+  "flashABShort": {
+    "message": "Treci mai întâi de punctul A"
+  },
+  "flashABOn": {
+    "message": "Buclă A-B activată"
+  },
+  "flashABOff": {
+    "message": "Buclă A-B dezactivată"
+  },
+  "mute": {
+    "message": "Dezactivează sunetul"
+  },
+  "unmute": {
+    "message": "Activează sunetul"
+  },
+  "volume": {
+    "message": "Volum"
+  },
+  "backToTab": {
+    "message": "Înapoi la filă"
+  },
+  "playPause": {
+    "message": "Redă / pauză"
+  },
+  "skip10": {
+    "message": "10 s înapoi / înainte"
+  },
+  "popupTagline": {
+    "message": "Urmărește YouTube într-o fereastră plutitoare"
+  },
+  "popupHow": {
+    "message": "Deschide un videoclip YouTube, apoi dă clic pe butonul Floaty din player sau apasă Alt+P."
+  },
+  "popupShortcuts": {
+    "message": "Comenzi rapide în fereastra plutitoare"
+  },
+  "rateTitle": {
+    "message": "Îți place Floaty?"
+  },
+  "rateText": {
+    "message": "Evaluează-l în Magazinul web Chrome. Durează 5 secunde și ne ajută mult."
+  },
+  "welcomeTitle": {
+    "message": "Floaty a fost instalat"
+  },
+  "welcomeLead": {
+    "message": "Urmărește YouTube într-o fereastră plutitoare în timp ce lucrezi, cu control de viteză și buclă."
+  },
+  "step1Title": {
+    "message": "Deschide orice videoclip YouTube"
+  },
+  "step1Text": {
+    "message": "Dă clic pe noul buton Floaty din bara de control a playerului sau apasă Alt+P."
+  },
+  "step2Title": {
+    "message": "Fixează Floaty în bara de instrumente"
+  },
+  "step2Text": {
+    "message": "Dă clic pe piesa de puzzle din dreapta sus în Chrome, apoi pe pioneza de lângă Floaty."
+  },
+  "step3Title": {
+    "message": "Controlează totul din fereastră"
+  },
+  "step3Text": {
+    "message": "Schimbă viteza, setează o buclă A-B sau sari 10 secunde fără să revii la filă."
+  },
+  "welcomeCta": {
+    "message": "Încearcă pe YouTube"
+  },
+  "language": {
+    "message": "Limbă"
+  },
+  "langAuto": {
+    "message": "Limba browserului"
+  }
+}
